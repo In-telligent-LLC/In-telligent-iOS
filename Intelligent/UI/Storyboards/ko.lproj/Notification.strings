@@ -1,0 +1,27 @@
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "9Dm-2M-hnO"; */
+"9Dm-2M-hnO.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "CALL COMMUNITY MANAGER"; ObjectID = "ASh-mj-aic"; */
+"ASh-mj-aic.normalTitle" = "CALL COMMUNITY MANAGER";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "Q3O-TF-mWi"; */
+"Q3O-TF-mWi.normalTitle" = "YES";
+
+/* Class = "UIButton"; normalTitle = "NO THANK YOU"; ObjectID = "Tf0-rZ-eAU"; */
+"Tf0-rZ-eAU.normalTitle" = "NO THANK YOU";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "XKQ-GS-UGD"; */
+"XKQ-GS-UGD.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "fdb-ob-m9f"; */
+"fdb-ob-m9f.normalTitle" = "NO";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "hYg-Lg-jVj"; */
+"hYg-Lg-jVj.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Are you OK?"; ObjectID = "jz2-YL-eJ1"; */
+"jz2-YL-eJ1.text" = "Are you OK?";
+
+/* Class = "UILabel"; text = "Would you like to call your community manager?"; ObjectID = "yH1-eO-yeY"; */
+"yH1-eO-yeY.text" = "Would you like to call your community manager?";

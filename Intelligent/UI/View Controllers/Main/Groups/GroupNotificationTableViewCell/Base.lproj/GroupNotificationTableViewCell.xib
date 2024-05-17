@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="3X5-Wa-D4H" customClass="GroupNotificationTableViewCell" customModule="Intelligent" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="150"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="3X5-Wa-D4H" id="aY3-SO-Fg7">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="149.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="1gw-zI-Fzr">
+                        <rect key="frame" x="16" y="3" width="288" height="143.5"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="aWy-ho-wwa">
+                                <rect key="frame" x="8" y="22" width="60" height="60"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="aWy-ho-wwa" secondAttribute="height" multiplier="1:1" id="Akt-bm-m0F"/>
+                                    <constraint firstAttribute="width" constant="60" id="krj-zk-Hxi"/>
+                                </constraints>
+                            </imageView>
+                            <stackView opaque="NO" contentMode="scaleToFill" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="fwf-RF-lXk">
+                                <rect key="frame" x="240" y="4" width="40" height="16"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_notification_new" translatesAutoresizingMaskIntoConstraints="NO" id="E5K-vG-ea0" customClass="IconImageView" customModule="Intelligent" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="16" height="16"/>
+                                        <color key="tintColor" red="0.67450980390000004" green="0.76862745099999996" blue="0.1764705882" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" secondItem="E5K-vG-ea0" secondAttribute="height" multiplier="1:1" id="mh1-Fr-Qr3"/>
+                                        </constraints>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_notification_life_safety" translatesAutoresizingMaskIntoConstraints="NO" id="Tvi-U5-fgT" customClass="IconImageView" customModule="Intelligent" customModuleProvider="target">
+                                        <rect key="frame" x="24" y="0.0" width="16" height="16"/>
+                                        <color key="tintColor" red="0.13725490200000001" green="0.53333333329999999" blue="0.77647058820000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" secondItem="Tvi-U5-fgT" secondAttribute="height" multiplier="1:1" id="19A-aU-G7v"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="16" id="57j-PY-FLg"/>
+                                </constraints>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="12" translatesAutoresizingMaskIntoConstraints="NO" id="Cnn-Rk-rCN">
+                                <rect key="frame" x="80" y="22" width="202" height="65.5"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" verticalCompressionResistancePriority="752" text="New Message Alert" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lFN-eg-Vd5">
+                                        <rect key="frame" x="0.0" y="0.0" width="202" height="18"/>
+                                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="751" text="Info, Date, Type" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7zJ-1w-WiR">
+                                        <rect key="frame" x="0.0" y="30" width="202" height="9"/>
+                                        <fontDescription key="fontDescription" type="italicSystem" pointSize="12"/>
+                                        <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="253" verticalCompressionResistancePriority="753" text="Message, Two lines" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3yM-l9-aER">
+                                        <rect key="frame" x="0.0" y="51" width="202" height="14.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HmY-Fb-lWm" customClass="INButton" customModule="Intelligent" customModuleProvider="target">
+                                <rect key="frame" x="80" y="101.5" width="78" height="26"/>
+                                <color key="backgroundColor" red="0.67331498860000005" green="0.76722902059999998" blue="0.17558357120000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="26" id="H8L-t1-Ubc"/>
+                                    <constraint firstAttribute="width" secondItem="HmY-Fb-lWm" secondAttribute="height" multiplier="3:1" id="JCl-yn-khL"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="12"/>
+                                <state key="normal" title="VIEW">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <action selector="viewTapped:" destination="3X5-Wa-D4H" eventType="touchUpInside" id="Jw3-tK-ydk"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="fwf-RF-lXk" firstAttribute="top" secondItem="1gw-zI-Fzr" secondAttribute="top" constant="4" id="22f-rT-9jZ"/>
+                            <constraint firstAttribute="trailing" secondItem="fwf-RF-lXk" secondAttribute="trailing" constant="8" id="90F-ZD-wrO"/>
+                            <constraint firstItem="Cnn-Rk-rCN" firstAttribute="top" secondItem="1gw-zI-Fzr" secondAttribute="top" constant="22" id="PGS-dP-KUI"/>
+                            <constraint firstItem="Cnn-Rk-rCN" firstAttribute="leading" secondItem="aWy-ho-wwa" secondAttribute="trailing" constant="12" id="QdO-eb-Sso"/>
+                            <constraint firstItem="aWy-ho-wwa" firstAttribute="leading" secondItem="1gw-zI-Fzr" secondAttribute="leading" constant="8" id="RVA-hN-OEF"/>
+                            <constraint firstItem="aWy-ho-wwa" firstAttribute="top" secondItem="Cnn-Rk-rCN" secondAttribute="top" id="cC5-qo-K26"/>
+                            <constraint firstAttribute="trailing" secondItem="Cnn-Rk-rCN" secondAttribute="trailing" constant="6" id="e0w-Ns-v0C"/>
+                            <constraint firstAttribute="bottom" secondItem="HmY-Fb-lWm" secondAttribute="bottom" constant="16" id="iad-cQ-Umx"/>
+                            <constraint firstAttribute="bottom" secondItem="Cnn-Rk-rCN" secondAttribute="bottom" constant="56" id="s7T-FK-a8D"/>
+                            <constraint firstItem="HmY-Fb-lWm" firstAttribute="leading" secondItem="Cnn-Rk-rCN" secondAttribute="leading" id="xcm-dm-qA6"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="1gw-zI-Fzr" firstAttribute="centerY" secondItem="aY3-SO-Fg7" secondAttribute="centerY" id="Beh-og-ZLy"/>
+                    <constraint firstItem="1gw-zI-Fzr" firstAttribute="top" secondItem="aY3-SO-Fg7" secondAttribute="top" constant="3" id="Oke-co-kUB"/>
+                    <constraint firstItem="1gw-zI-Fzr" firstAttribute="centerX" secondItem="aY3-SO-Fg7" secondAttribute="centerX" id="Y2k-Jg-qPl"/>
+                    <constraint firstItem="1gw-zI-Fzr" firstAttribute="leading" secondItem="aY3-SO-Fg7" secondAttribute="leading" constant="16" id="jp8-dk-JZc"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <viewLayoutGuide key="safeArea" id="nZ3-T5-n0S"/>
+            <connections>
+                <outlet property="infoLabel" destination="7zJ-1w-WiR" id="lgz-Yf-SAY"/>
+                <outlet property="messageLabel" destination="3yM-l9-aER" id="wqk-NH-ai5"/>
+                <outlet property="notificationImageView" destination="aWy-ho-wwa" id="ozD-b9-vfK"/>
+                <outlet property="notificationTypeImageView" destination="Tvi-U5-fgT" id="7DC-yL-iwZ"/>
+                <outlet property="readImageView" destination="E5K-vG-ea0" id="bcy-Xg-SGG"/>
+                <outlet property="titleLabel" destination="lFN-eg-Vd5" id="3Pj-KG-e3A"/>
+                <outlet property="viewButton" destination="HmY-Fb-lWm" id="1Zq-zc-pIN"/>
+            </connections>
+            <point key="canvasLocation" x="137.59999999999999" y="184.85757121439281"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="icon_notification_life_safety" width="32" height="32"/>
+        <image name="icon_notification_new" width="32" height="32"/>
+        <image name="logo" width="266" height="76"/>
+    </resources>
+</document>

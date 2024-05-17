@@ -1,0 +1,651 @@
+
+/* No comment provided by engineer. */
+"%d Attachments" = "％d添付ファイル";
+
+/* No comment provided by engineer. */
+"*When you send an urgent or emergency alert to the community, members will hear the alert sound." = "*緊急または緊急のアラートをコミュニティに送信すると、メンバーに警告音が鳴ります。";
+
+/* No comment provided by engineer. */
+"ABC" = "ABC";
+
+/* No comment provided by engineer. */
+"ABOUT" = "約";
+
+/* No comment provided by engineer. */
+"Accepted" = "受け入れられた";
+
+/* No comment provided by engineer. */
+"Account" = "アカウント";
+
+/* No comment provided by engineer. */
+"Add Attachment" = "添付ファイルを追加する";
+
+/* No comment provided by engineer. */
+"ALERT LANGUAGE" = "アラート言語";
+
+/* No comment provided by engineer. */
+"Alert Sent" = "アラートが送信されました";
+
+/* No comment provided by engineer. */
+"Alert Suggested" = "アラートの提案";
+
+/* No comment provided by engineer. */
+"All Subscribers" = "すべての購読者";
+
+/* No comment provided by engineer. */
+"Already have an account? LOG IN" = "すでにアカウントをお持ちですか？ログイン";
+
+/* No comment provided by engineer. */
+"Always" = "常に";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete %@?" = "消去してもよろしいですか ％@？";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete the invite for %@?" = "％@の招待状を削除してもよろしいですか？";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this group?" = "このグループを削除してもよろしいですか？";
+
+/* No comment provided by engineer. */
+"Are you sure?" = "本気ですか？";
+
+/* No comment provided by engineer. */
+"Attachments" = "添付ファイル";
+
+/* No comment provided by engineer. */
+"Attachments: %d total" = "添付ファイル：合計％d";
+
+/* No comment provided by engineer. */
+"BACK" = "バック";
+
+/* No comment provided by engineer. */
+"Begin Call" = "通話を開始する";
+
+/* No comment provided by engineer. */
+"Call" = "コール";
+
+/* No comment provided by engineer. */
+"CANCEL" = "キャンセル";
+
+/* No comment provided by engineer. */
+"Cancel" = "キャンセル";
+
+/* No comment provided by engineer. */
+"CHANGE PASSWORD" = "パスワードを変更する";
+
+/* No comment provided by engineer. */
+"Change Thumbnail" = "サムネイルを変更する";
+
+/* No comment provided by engineer. */
+"Changes Saved" = "変更が保存されました";
+
+/* No comment provided by engineer. */
+"Close" = "閉じる";
+
+/* No comment provided by engineer. */
+"Confirm Password" = "パスワードを認証する";
+
+/* No comment provided by engineer. */
+"Connect" = "接続する";
+
+/* No comment provided by engineer. */
+"CONNECT" = "CONNECT";
+
+/* No comment provided by engineer. */
+"Contact" = "接触";
+
+/* No comment provided by engineer. */
+"CREATE" = "CREATE";
+
+/* No comment provided by engineer. */
+"Create A Group" = "グループを作成する";
+
+/* No comment provided by engineer. */
+"Create a New Group" = "新しいグループを作成する";
+
+/* No comment provided by engineer. */
+"Create Account" = "アカウントを作成する";
+
+/* No comment provided by engineer. */
+"Create Thumbnail" = "サムネイルの作成";
+
+/* No comment provided by engineer. */
+"Created on %@" = "％@で作成";
+
+/* No comment provided by engineer. */
+"Critical" = "クリティカル";
+
+/* No comment provided by engineer. */
+"DEF" = "DEF";
+
+/* No comment provided by engineer. */
+"Default Thumbnail" = "デフォルトサムネイル";
+
+/* No comment provided by engineer. */
+"Delete" = "削除";
+
+/* No comment provided by engineer. */
+"Delete Notification" = "通知の削除";
+
+/* No comment provided by engineer. */
+"Deliver To" = "配達する";
+
+/* No comment provided by engineer. */
+"Delivered:" = "配達：";
+
+/* No comment provided by engineer. */
+"DELIVERY INFORMATION" = "配送に関する情報";
+
+/* No comment provided by engineer. */
+"DISCONNECT" = "ディスコネクト";
+
+/* No comment provided by engineer. */
+"Do you want to disable Audible Lightning Alerts" = "Audible Lightning Alertsを無効にしますか？";
+
+/* No comment provided by engineer. */
+"Done" = "完了";
+
+/* No comment provided by engineer. */
+"Edit Group" = "グループの編集";
+
+/* No comment provided by engineer. */
+"Edit Member" = "メンバーの編集";
+
+/* No comment provided by engineer. */
+"Email" = "Eメール";
+
+/* No comment provided by engineer. */
+"EMAIL" = "Eメール";
+
+/* No comment provided by engineer. */
+"Emergency Services" = "緊急サービス";
+
+/* No comment provided by engineer. */
+"End Call" = "通話終了";
+
+/* No comment provided by engineer. */
+"Enter Description" = "説明を入力";
+
+/* No comment provided by engineer. */
+"Enter Email Address" = "メールアドレスを入力してください";
+
+/* No comment provided by engineer. */
+"Enter Message" = "メッセージを入力";
+
+/* No comment provided by engineer. */
+"Enter Title" = "タイトルを入力";
+
+/* No comment provided by engineer. */
+"FIND" = "見つけた";
+
+/* No comment provided by engineer. */
+"Find Member" = "メンバーを探す";
+
+/* No comment provided by engineer. */
+"FIRST TIME USER" = "初めてのユーザー";
+
+/* No comment provided by engineer. */
+"Forgot Password" = "パスワードをお忘れですか";
+
+/* No comment provided by engineer. */
+"FORGOT/CHANGE PASSWORD" = "忘れる/パスワードを変更する";
+
+/* No comment provided by engineer. */
+"Full Name" = "フルネーム";
+
+/* No comment provided by engineer. */
+"General Inquires on In-telligent" = "一般的には敏感な人に問い合わせる";
+
+/* No comment provided by engineer. */
+"GHI" = "記録する";
+
+/* No comment provided by engineer. */
+"Group Created" = "作成されたグループ";
+
+/* No comment provided by engineer. */
+"Group Deleted" = "グループが削除されました";
+
+/* No comment provided by engineer. */
+"Group Name" = "グループ名";
+
+/* No comment provided by engineer. */
+"Groups" = "グループ";
+
+/* No comment provided by engineer. */
+"Helplines & Hotlines" = "ヘルプラインとホットライン";
+
+/* No comment provided by engineer. */
+"How many hours would you like total silence for?" = "あなたは何時間も沈黙を望んでいますか？";
+
+/* No comment provided by engineer. */
+"IGNORE" = "IGNORE";
+
+/* No comment provided by engineer. */
+"In-telligent" = "敏感な";
+
+/* No comment provided by engineer. */
+"In-telligent and All Emails" = "敏感なメールとすべてのメール";
+
+/* No comment provided by engineer. */
+"In-telligent and Imported Emails" = "敏感な電子メールとインポートされた電子メール";
+
+/* No comment provided by engineer. */
+"Inbox" = "受信トレイ";
+
+/* No comment provided by engineer. */
+"Invalid building" = "無効な建物";
+
+/* No comment provided by engineer. */
+"Invalid Password" = "無効なパスワード";
+
+/* No comment provided by engineer. */
+"Invalid reset code. Please try again." = "リセットコードが無効です。もう一度お試しください。";
+
+/* No comment provided by engineer. */
+"Invite New Member" = "新しい会員を招待する";
+
+/* No comment provided by engineer. */
+"INVITE OTHERS TO JOIN" = "他に招待する";
+
+/* No comment provided by engineer. */
+"Invited" = "招待された";
+
+/* No comment provided by engineer. */
+"JKL" = "JKL";
+
+/* No comment provided by engineer. */
+"JOIN NOW" = "今すぐ参加する";
+
+/* No comment provided by engineer. */
+"Join now with Facebook" = "Facebookに今すぐ登録";
+
+/* No comment provided by engineer. */
+"Join now with Google" = "Googleと今すぐ登録";
+
+/* No comment provided by engineer. */
+"Life Safety" = "生命の安全";
+
+/* No comment provided by engineer. */
+"Lightning" = "ライトニング";
+
+/* No comment provided by engineer. */
+"Lightning Alert" = "雷警報";
+
+/* No comment provided by engineer. */
+"Listen to the emergency alert sound" = "緊急警報音を聴く";
+
+/* No comment provided by engineer. */
+"Listen to the urgent alert sound" = "緊急警報音を聞く";
+
+/* No comment provided by engineer. */
+"LOG IN" = "ログイン";
+
+/* No comment provided by engineer. */
+"Log in with Facebook" = "Facebookでログイン";
+
+/* No comment provided by engineer. */
+"Log in with Google" = "Googleでログインする";
+
+/* No comment provided by engineer. */
+"Log Out" = "ログアウト";
+
+/* No comment provided by engineer. */
+"Menu" = "メニュー";
+
+/* No comment provided by engineer. */
+"Message" = "メッセージ";
+
+/* No comment provided by engineer. */
+"MESSAGE FEED" = "メッセージフィード";
+
+/* No comment provided by engineer. */
+"MNO" = "MNO";
+
+/* No comment provided by engineer. */
+"My Account" = "マイアカウント";
+
+/* No comment provided by engineer. */
+"My Groups" = "私のグループ";
+
+/* No comment provided by engineer. */
+"My Info" = "私の情報";
+
+/* No comment provided by engineer. */
+"NAME" = "名";
+
+/* No comment provided by engineer. */
+"Name" = "名";
+
+/* No comment provided by engineer. */
+"Name Your Group" = "あなたのグループに名前をつける";
+
+/* No comment provided by engineer. */
+"Name:" = "名：";
+
+/* No comment provided by engineer. */
+"Never" = "絶対に";
+
+/* No comment provided by engineer. */
+"NEXT" = "次";
+
+/* No comment provided by engineer. */
+"No" = "いいえ";
+
+/* No comment provided by engineer. */
+"None" = "無し";
+
+/* No comment provided by engineer. */
+"Normal" = "ノーマル";
+
+/* No comment provided by engineer. */
+"Notifications" = "通知";
+
+/* No comment provided by engineer. */
+"Off" = "オフ";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"On" = "に";
+
+/* No comment provided by engineer. */
+"Only When I'm Here" = "私がここにいる時だけ";
+
+/* No comment provided by engineer. */
+"or" = "または";
+
+/* No comment provided by engineer. */
+"OR" = "または";
+
+/* No comment provided by engineer. */
+"Organizations" = "組織";
+
+/* No comment provided by engineer. */
+"Other Groups" = "その他のグループ";
+
+/* No comment provided by engineer. */
+"Password" = "パスワード";
+
+/* No comment provided by engineer. */
+"Password Required" = "パスワードが必要";
+
+/* No comment provided by engineer. */
+"Passwords must match" = "パスワードが一致する必要があります";
+
+/* No comment provided by engineer. */
+"PC Emergency" = "PC緊急事態";
+
+/* No comment provided by engineer. */
+"PC Urgent" = "PC緊急";
+
+/* No comment provided by engineer. */
+"Pending..." = "保留中...";
+
+/* No comment provided by engineer. */
+"People" = "人";
+
+/* No comment provided by engineer. */
+"Personal Safety" = "個人の安全";
+
+/* No comment provided by engineer. */
+"Phone Number" = "電話番号";
+
+/* No comment provided by engineer. */
+"Ping" = "Ping";
+
+/* No comment provided by engineer. */
+"Please input a valid confirmed password" = "有効な確認済みのパスワードを入力してください";
+
+/* No comment provided by engineer. */
+"Please input a valid description" = "有効な説明を入力してください";
+
+/* No comment provided by engineer. */
+"Please input a valid email" = "有効なメールアドレスを入力してください";
+
+/* No comment provided by engineer. */
+"Please input a valid email or phone number" = "有効なメールアドレスまたは電話番号を入力してください";
+
+/* No comment provided by engineer. */
+"Please input a valid message" = "有効なメッセージを入力してください";
+
+/* No comment provided by engineer. */
+"Please input a valid name" = "有効な名前を入力してください";
+
+/* No comment provided by engineer. */
+"Please input a valid password" = "有効なパスワードを入力してください";
+
+/* No comment provided by engineer. */
+"Please input a valid phone number" = "有効な電話番号を入力してください";
+
+/* No comment provided by engineer. */
+"Please input a valid title" = "有効なタイトルを入力してください";
+
+/* No comment provided by engineer. */
+"Please select a deliver to" = "配信先を選択してください";
+
+/* No comment provided by engineer. */
+"Please select a group that you would like to contact" = "あなたが連絡したいグループを選択してください";
+
+/* No comment provided by engineer. */
+"Please select a notification type" = "通知タイプを選択してください";
+
+/* No comment provided by engineer. */
+"Please select a send to" = "送信先を選択してください";
+
+/* No comment provided by engineer. */
+"PQRS" = "PQRS";
+
+/* No comment provided by engineer. */
+"Read less" = "もっと読む";
+
+/* No comment provided by engineer. */
+"Read more" = "続きを読む";
+
+/* No comment provided by engineer. */
+"Receive regular alerts" = "定期的なアラートを受信する";
+
+/* No comment provided by engineer. */
+"Received:" = "受信：";
+
+/* No comment provided by engineer. */
+"Remove %@" = "％@を削除";
+
+/* No comment provided by engineer. */
+"Remove Attachment" = "添付ファイルを削除";
+
+/* No comment provided by engineer. */
+"Request Submitted" = "依頼された";
+
+/* No comment provided by engineer. */
+"Reset Password" = "パスワードを再設定する";
+
+/* No comment provided by engineer. */
+"Response" = "応答";
+
+/* No comment provided by engineer. */
+"RETURNING SUBSCRIBER" = "サブスクライバーの返却";
+
+/* No comment provided by engineer. */
+"SAVE CHANGES" = "変更内容を保存";
+
+/* No comment provided by engineer. */
+"SAVE MESSAGE" = "メッセージを保存";
+
+/* No comment provided by engineer. */
+"Saved" = "保存された";
+
+/* No comment provided by engineer. */
+"Saved Messages" = "保存されたメッセージ";
+
+/* No comment provided by engineer. */
+"Search for Group" = "グループを検索する";
+
+/* No comment provided by engineer. */
+"Search for Groups" = "グループを検索する";
+
+/* No comment provided by engineer. */
+"Select Thumbnail:" = "サムネイルを選択：";
+
+/* No comment provided by engineer. */
+"SEND" = "SEND";
+
+/* No comment provided by engineer. */
+"SEND INVITE & SAVE CONTACT" = "招待状を送信して保存する";
+
+/* No comment provided by engineer. */
+"Send Message" = "メッセージを送る";
+
+/* No comment provided by engineer. */
+"Send To" = "に送る";
+
+/* No comment provided by engineer. */
+"Settings" = "設定";
+
+/* No comment provided by engineer. */
+"Severe Weather" = "深刻な天気";
+
+/* No comment provided by engineer. */
+"Specific Subscribers" = "特定の加入者";
+
+/* No comment provided by engineer. */
+"Specify Subscribers" = "サブスクライバーを指定する";
+
+/* No comment provided by engineer. */
+"STOP SPEAKING" = "話を止める";
+
+/* No comment provided by engineer. */
+"SUBMIT" = "提出";
+
+/* No comment provided by engineer. */
+"SUBSCRIBE" = "申し込む";
+
+/* No comment provided by engineer. */
+"Suggest Message" = "メッセージを提案する";
+
+/* No comment provided by engineer. */
+"Suggested" = "提案された";
+
+/* No comment provided by engineer. */
+"Suggested Groups" = "推奨グループ";
+
+/* No comment provided by engineer. */
+"Support" = "サポート";
+
+/* No comment provided by engineer. */
+"TEXT TO SPEECH" = "スピーチのためのテキスト";
+
+/* No comment provided by engineer. */
+"Thanks! Check your email in a few minutes for the password reset link." = "ありがとう！パスワードリセットリンクが表示されるまで数分でメールを確認してください。";
+
+/* No comment provided by engineer. */
+"This field is required." = "この項目は必須です。";
+
+/* No comment provided by engineer. */
+"Timer: %@" = "時間：％@";
+
+/* No comment provided by engineer. */
+"Total Members (%d)" = "総メンバー数（％d）";
+
+/* No comment provided by engineer. */
+"Total Silence" = "トータルサイレンス";
+
+/* No comment provided by engineer. */
+"TRANSLATE" = "TRANSLATE";
+
+/* No comment provided by engineer. */
+"Translate to:" = "翻訳する：";
+
+/* No comment provided by engineer. */
+"TUV" = "TUV";
+
+/* No comment provided by engineer. */
+"Type of Alert" = "アラートの種類";
+
+/* No comment provided by engineer. */
+"Unread" = "未読";
+
+/* No comment provided by engineer. */
+"UNSAVE MESSAGE" = "UNSAVE MESSAGE";
+
+/* No comment provided by engineer. */
+"VIEW" = "VIEW";
+
+/* No comment provided by engineer. */
+"VIEW ALERTS" = "アラートを表示";
+
+/* No comment provided by engineer. */
+"VIEW MEMBERS" = "メンバーを見る";
+
+/* No comment provided by engineer. */
+"Weather" = "天気";
+
+/* No comment provided by engineer. */
+"WXYZ" = "WXYZ";
+
+/* No comment provided by engineer. */
+"Yes" = "はい";
+
+/* No comment provided by engineer. */
+"Would you like to call your community manager?" = "コミュニティマネージャに電話しますか？";
+
+/* No comment provided by engineer. */
+"CALL COMMUNITY MANAGER" = "コミュニティー・マネージャーに電話をかける";
+
+/* No comment provided by engineer. */
+"Are you OK?" = "大丈夫ですか？";
+
+/* No comment provided by engineer. */
+"Error" = "エラー";
+
+/* No comment provided by engineer. */
+"An unknown error occurred. Please contact support if the issue persists" = "不明なエラーが発生しました。問題が解決しない場合はサポートにお問い合わせください";
+
+/* No comment provided by engineer. */
+"FILTER" = "フィルタ";
+
+/* No comment provided by engineer. */
+"Hours" = "時間";
+
+/* No comment provided by engineer. */
+"Opt-Out" = "身を引く";
+
+/* No comment provided by engineer. */
+"Indeterminate progress" = "";
+
+/* No comment provided by engineer. */
+"Loading" = "";
+
+/* No comment provided by engineer. */
+"Success" = "";
+
+/* Format for the string to return to a calling app. */
+"Touch to return to %1$@" = "";
+
+/* No comment provided by engineer. */
+"This group is password protected, you must subscribe to see it's messages" = "このグループはパスワードで保護されているため、購読してメッセージを確認する必要があります";
+
+/* No comment provided by engineer. */
+"Would you like to opt-out from automatic subscriptions to %@?" = "％@への自動購読からオプトアウトしますか？";
+
+/* No comment provided by engineer. */
+"Viewed:" = "閲覧：";
+
+/* No comment provided by engineer. */
+"There are no subscribers in this group" = "このグループには購読者がいません";
+
+/* No comment provided by engineer. */
+"Search for Members" = "メンバーを探す";
+
+/* No comment provided by engineer. */
+"Are you sure you want to join?" = "参加してもよろしいですか？";
+
+/* No comment provided by engineer. */
+"You have been invited to join %@" = "あなたは参加するように招待されました %@";
+
+/* No comment provided by engineer. */
+"Please select the group members that you would like to contact" = "連絡を取りたいグループメンバーを選択してください";
+
+/* No comment provided by engineer. */
+"Selected Members (%d)" = "選択されたメンバー (%d)";

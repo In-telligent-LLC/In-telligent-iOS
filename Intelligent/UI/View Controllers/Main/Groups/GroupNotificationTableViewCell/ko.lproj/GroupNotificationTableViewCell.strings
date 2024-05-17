@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Message, Two lines"; ObjectID = "3yM-l9-aER"; */
+"3yM-l9-aER.text" = "Message, Two lines";
+
+/* Class = "UILabel"; text = "Info, Date, Type"; ObjectID = "7zJ-1w-WiR"; */
+"7zJ-1w-WiR.text" = "Info, Date, Type";
+
+/* Class = "UIButton"; normalTitle = "VIEW"; ObjectID = "HmY-Fb-lWm"; */
+"HmY-Fb-lWm.normalTitle" = "VIEW";
+
+/* Class = "UILabel"; text = "New Message Alert"; ObjectID = "lFN-eg-Vd5"; */
+"lFN-eg-Vd5.text" = "New Message Alert";

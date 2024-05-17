@@ -1,0 +1,189 @@
+
+/* Class = "UIButton"; normalTitle = "CREATE"; ObjectID = "0eV-5h-e4t"; */
+"0eV-5h-e4t.normalTitle" = "CREATE";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "0eb-Fy-CZU"; */
+"0eb-Fy-CZU.text" = "or";
+
+/* Class = "UITabBarItem"; title = "Groups"; ObjectID = "166-c6-mdm"; */
+"166-c6-mdm.title" = "Groups";
+
+/* Class = "UIButton"; normalTitle = "VIEW MEMBERS"; ObjectID = "1u1-cj-zZ5"; */
+"1u1-cj-zZ5.normalTitle" = "VIEW MEMBERS";
+
+/* Class = "UIButton"; normalTitle = "Create Thumbnail"; ObjectID = "26H-as-4OZ"; */
+"26H-as-4OZ.normalTitle" = "Create Thumbnail";
+
+/* Class = "UIButton"; normalTitle = "SEND INVITE & SAVE CONTACT"; ObjectID = "2AD-s6-wfX"; */
+"2AD-s6-wfX.normalTitle" = "SEND INVITE & SAVE CONTACT";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "3dK-cs-ph7"; */
+"3dK-cs-ph7.normalTitle" = "BACK";
+
+/* Class = "UIButton"; normalTitle = "INVITE OTHERS TO JOIN"; ObjectID = "3qa-KU-BWj"; */
+"3qa-KU-BWj.normalTitle" = "INVITE OTHERS TO JOIN";
+
+/* Class = "UILabel"; text = "Received:"; ObjectID = "5D5-7F-2Tv"; */
+"5D5-7F-2Tv.text" = "Received:";
+
+/* Class = "UILabel"; text = "This field is required."; ObjectID = "7H8-iS-bh2"; */
+"7H8-iS-bh2.text" = "This field is required.";
+
+/* Class = "UILabel"; text = "This field is required."; ObjectID = "7Jq-dM-JmO"; */
+"7Jq-dM-JmO.text" = "This field is required.";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "7Y7-Aq-6Go"; */
+"7Y7-Aq-6Go.normalTitle" = "BACK";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "7yZ-BN-QOL"; */
+"7yZ-BN-QOL.normalTitle" = "BACK";
+
+/* Class = "UILabel"; text = "This field is required."; ObjectID = "8co-li-dSW"; */
+"8co-li-dSW.text" = "This field is required.";
+
+/* Class = "UIButton"; normalTitle = "MESSAGE FEED"; ObjectID = "97R-k8-rqr"; */
+"97R-k8-rqr.normalTitle" = "MESSAGE FEED";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "9TC-7a-peY"; */
+"9TC-7a-peY.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Edit Member"; ObjectID = "9Uh-8o-PEg"; */
+"9Uh-8o-PEg.text" = "Edit Member";
+
+/* Class = "UILabel"; text = "Create a New Group"; ObjectID = "Dyk-Ze-6Xf"; */
+"Dyk-Ze-6Xf.text" = "Create a New Group";
+
+/* Class = "UILabel"; text = "Text multiline"; ObjectID = "EXs-g0-6d8"; */
+"EXs-g0-6d8.text" = "Text multiline";
+
+/* Class = "UIButton"; normalTitle = "Listen to the emergency alert sound"; ObjectID = "Eqe-Of-X5G"; */
+"Eqe-Of-X5G.normalTitle" = "Listen to the emergency alert sound";
+
+/* Class = "UILabel"; text = "Invite New Member"; ObjectID = "FsF-UO-DxN"; */
+"FsF-UO-DxN.text" = "Invite New Member";
+
+/* Class = "UILabel"; text = "Created on Date, Time"; ObjectID = "Hey-i0-SKH"; */
+"Hey-i0-SKH.text" = "Created on Date, Time";
+
+/* Class = "UIButton"; normalTitle = "Read more"; ObjectID = "I1o-px-32A"; */
+"I1o-px-32A.normalTitle" = "Read more";
+
+/* Class = "UITextField"; placeholder = "Search for Groups"; ObjectID = "JOh-e6-FeD"; */
+"JOh-e6-FeD.placeholder" = "Search for Groups";
+
+/* Class = "UILabel"; text = "This field is required."; ObjectID = "JdL-Sd-YLO"; */
+"JdL-Sd-YLO.text" = "This field is required.";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Jv5-DA-XnE"; */
+"Jv5-DA-XnE.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "K7t-wa-nFd"; */
+"K7t-wa-nFd.normalTitle" = "BACK";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "KGg-b6-ohl"; */
+"KGg-b6-ohl.normalTitle" = "BACK";
+
+/* Class = "UIButton"; normalTitle = "VIEW ALERTS"; ObjectID = "L1w-Vm-LzJ"; */
+"L1w-Vm-LzJ.normalTitle" = "VIEW ALERTS";
+
+/* Class = "UIButton"; normalTitle = "Default Thumbnail"; ObjectID = "Lgn-qK-erT"; */
+"Lgn-qK-erT.normalTitle" = "Default Thumbnail";
+
+/* Class = "UIButton"; normalTitle = "SAVE CHANGES"; ObjectID = "QHD-ol-ZGi"; */
+"QHD-ol-ZGi.normalTitle" = "SAVE CHANGES";
+
+/* Class = "UILabel"; text = "*When you send an urgent or emergency alert to the community, members will hear the alert sound."; ObjectID = "So2-Of-7dK"; */
+"So2-Of-7dK.text" = "*When you send an urgent or emergency alert to the community, members will hear the alert sound.";
+
+/* Class = "UILabel"; text = "Total Members (12)"; ObjectID = "Tph-31-4O4"; */
+"Tph-31-4O4.text" = "Total Members (12)";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "ZAj-NR-SLP"; */
+"ZAj-NR-SLP.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Listen to the urgent alert sound"; ObjectID = "ZHA-G7-FpJ"; */
+"ZHA-G7-FpJ.normalTitle" = "Listen to the urgent alert sound";
+
+/* Class = "UILabel"; text = "Group title multiline"; ObjectID = "ZXt-Id-LKW"; */
+"ZXt-Id-LKW.text" = "Group title multiline";
+
+/* Class = "UILabel"; text = "Date, Notification Type"; ObjectID = "aCp-oI-5bk"; */
+"aCp-oI-5bk.text" = "Date, Notification Type";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "aWE-w5-eVq"; */
+"aWE-w5-eVq.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Delivered:"; ObjectID = "b7S-o2-4Cq"; */
+"b7S-o2-4Cq.text" = "Delivered:";
+
+/* Class = "UILabel"; text = "Group A"; ObjectID = "cCZ-se-jRt"; */
+"cCZ-se-jRt.text" = "Group A";
+
+/* Class = "UITextField"; placeholder = "Name Your Group"; ObjectID = "cm2-YK-OIn"; */
+"cm2-YK-OIn.placeholder" = "Name Your Group";
+
+/* Class = "UILabel"; text = "Select Thumbnail:"; ObjectID = "cxL-dH-Ybs"; */
+"cxL-dH-Ybs.text" = "Select Thumbnail:";
+
+/* Class = "UILabel"; text = "Total Members (12)"; ObjectID = "ea3-uN-FBS"; */
+"ea3-uN-FBS.text" = "Total Members (12)";
+
+/* Class = "UIButton"; normalTitle = "https://website.com"; ObjectID = "fNQ-Vf-dnq"; */
+"fNQ-Vf-dnq.normalTitle" = "https://website.com";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "fSI-DW-cEU"; */
+"fSI-DW-cEU.normalTitle" = "BACK";
+
+/* Class = "UILabel"; text = "Group A"; ObjectID = "fek-GS-0pq"; */
+"fek-GS-0pq.text" = "Group A";
+
+/* Class = "UILabel"; text = "This field is required."; ObjectID = "gGk-8E-rpb"; */
+"gGk-8E-rpb.text" = "This field is required.";
+
+/* Class = "UILabel"; text = "This field is required."; ObjectID = "go3-Cs-kCT"; */
+"go3-Cs-kCT.text" = "This field is required.";
+
+/* Class = "UITextView"; text = "Title multiline"; ObjectID = "jRZ-4p-G71"; */
+"jRZ-4p-G71.text" = "Title multiline";
+
+/* Class = "UILabel"; text = "This field is required."; ObjectID = "ljh-o4-bBc"; */
+"ljh-o4-bBc.text" = "This field is required.";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "mW2-Bv-rbG"; */
+"mW2-Bv-rbG.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "mtj-9g-6cW"; */
+"mtj-9g-6cW.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "qJo-uf-pew"; */
+"qJo-uf-pew.text" = "Name:";
+
+/* Class = "UILabel"; text = "Find Member"; ObjectID = "sFu-uh-G3L"; */
+"sFu-uh-G3L.text" = "Find Member";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "sjc-lv-psn"; */
+"sjc-lv-psn.normalTitle" = "BACK";
+
+/* Class = "UIButton"; normalTitle = "FIND"; ObjectID = "tRB-0n-Rgc"; */
+"tRB-0n-Rgc.normalTitle" = "FIND";
+
+/* Class = "UILabel"; text = "This field is required."; ObjectID = "tww-jO-agq"; */
+"tww-jO-agq.text" = "This field is required.";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "u3r-vx-qaY"; */
+"u3r-vx-qaY.text" = "or";
+
+/* Class = "UILabel"; text = "Attachment(s): 3 total"; ObjectID = "umv-vx-CHW"; */
+"umv-vx-CHW.text" = "Attachment(s): 3 total";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "xOT-e8-5hK"; */
+"xOT-e8-5hK.placeholder" = "Phone Number";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "xUr-qX-Ggg"; */
+"xUr-qX-Ggg.normalTitle" = "BACK";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "xbi-Fe-2xs"; */
+"xbi-Fe-2xs.normalTitle" = "BACK";
+
+/* Class = "UIButton"; normalTitle = "CONNECT"; ObjectID = "yIh-fo-t4F"; */
+"yIh-fo-t4F.normalTitle" = "CONNECT";

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="84" id="JEG-so-J6n" customClass="SuggestedGroupTableViewCell" customModule="Intelligent" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="84"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="JEG-so-J6n" id="n3j-0w-N2z">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="83.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GQP-Za-Yzt">
+                        <rect key="frame" x="16" y="3" width="288" height="77.5"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="xhx-hl-oiF">
+                                <rect key="frame" x="8" y="19" width="40" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="40" id="1iA-C7-jlg"/>
+                                    <constraint firstAttribute="width" secondItem="xhx-hl-oiF" secondAttribute="height" multiplier="1:1" id="Tvm-9W-VUg"/>
+                                </constraints>
+                            </imageView>
+                            <stackView opaque="NO" contentMode="scaleToFill" spacing="12" translatesAutoresizingMaskIntoConstraints="NO" id="UYY-gK-SQ6">
+                                <rect key="frame" x="60" y="16" width="222" height="45.5"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" verticalCompressionResistancePriority="752" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ta6-Zq-VYP">
+                                        <rect key="frame" x="0.0" y="0.0" width="57" height="45.5"/>
+                                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" alignment="center" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="E25-Mb-WMg">
+                                        <rect key="frame" x="69" y="0.0" width="153" height="45.5"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ckj-B7-jFJ" customClass="INButton" customModule="Intelligent" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="12" width="81" height="22"/>
+                                                <color key="backgroundColor" red="0.67331498860000005" green="0.76722902059999998" blue="0.17558357120000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="10"/>
+                                                <inset key="contentEdgeInsets" minX="6" minY="4" maxX="2" maxY="4"/>
+                                                <inset key="imageEdgeInsets" minX="-4" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                                <state key="normal" title="SUBSCRIBE" image="icon_check">
+                                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
+                                                <connections>
+                                                    <action selector="subscribeTapped:" destination="JEG-so-J6n" eventType="touchUpInside" id="LBo-tO-Anh"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ciO-Q8-LuA" customClass="INButton" customModule="Intelligent" customModuleProvider="target">
+                                                <rect key="frame" x="91" y="12" width="62" height="22"/>
+                                                <color key="backgroundColor" red="0.78831332919999997" green="0.039100781080000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="10"/>
+                                                <inset key="contentEdgeInsets" minX="6" minY="4" maxX="2" maxY="4"/>
+                                                <inset key="imageEdgeInsets" minX="-4" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                                <state key="normal" title="IGNORE" image="icon_x">
+                                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
+                                                <connections>
+                                                    <action selector="ignoreTapped:" destination="JEG-so-J6n" eventType="touchUpInside" id="b9Y-sd-Td3"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="UYY-gK-SQ6" firstAttribute="centerY" secondItem="GQP-Za-Yzt" secondAttribute="centerY" id="3bL-9f-kO0"/>
+                            <constraint firstItem="xhx-hl-oiF" firstAttribute="centerY" secondItem="UYY-gK-SQ6" secondAttribute="centerY" id="8BD-XH-ULc"/>
+                            <constraint firstItem="UYY-gK-SQ6" firstAttribute="top" secondItem="GQP-Za-Yzt" secondAttribute="top" constant="16" id="bsb-g3-jcX"/>
+                            <constraint firstItem="UYY-gK-SQ6" firstAttribute="leading" secondItem="xhx-hl-oiF" secondAttribute="trailing" constant="12" id="hA7-2F-m7a"/>
+                            <constraint firstItem="xhx-hl-oiF" firstAttribute="leading" secondItem="GQP-Za-Yzt" secondAttribute="leading" constant="8" id="hq1-lo-Cqf"/>
+                            <constraint firstAttribute="trailing" secondItem="UYY-gK-SQ6" secondAttribute="trailing" constant="6" id="zvq-Eb-GQQ"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="GQP-Za-Yzt" firstAttribute="centerY" secondItem="n3j-0w-N2z" secondAttribute="centerY" id="O7f-Wg-ZPF"/>
+                    <constraint firstItem="GQP-Za-Yzt" firstAttribute="leading" secondItem="n3j-0w-N2z" secondAttribute="leading" constant="16" id="fm5-No-fcD"/>
+                    <constraint firstItem="GQP-Za-Yzt" firstAttribute="centerX" secondItem="n3j-0w-N2z" secondAttribute="centerX" id="pxV-4c-inm"/>
+                    <constraint firstItem="GQP-Za-Yzt" firstAttribute="top" secondItem="n3j-0w-N2z" secondAttribute="top" constant="3" id="zHQ-gl-19j"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <viewLayoutGuide key="safeArea" id="pfV-Yx-Hb6"/>
+            <connections>
+                <outlet property="buildingImageView" destination="xhx-hl-oiF" id="xfn-aZ-aTa"/>
+                <outlet property="ignoreButton" destination="ciO-Q8-LuA" id="fAK-aJ-Sn4"/>
+                <outlet property="nameLabel" destination="ta6-Zq-VYP" id="mzz-Rf-pgF"/>
+                <outlet property="subscribeButton" destination="Ckj-B7-jFJ" id="ZMe-vu-hpx"/>
+            </connections>
+            <point key="canvasLocation" x="137.59999999999999" y="154.72263868065968"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="icon_check" width="14" height="14"/>
+        <image name="icon_x" width="14" height="14"/>
+        <image name="logo" width="266" height="76"/>
+    </resources>
+</document>

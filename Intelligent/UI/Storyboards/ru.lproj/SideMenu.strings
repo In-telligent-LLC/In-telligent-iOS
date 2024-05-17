@@ -1,0 +1,99 @@
+
+/* Class = "UIButton"; normalTitle = "Saved Messages"; ObjectID = "3Ox-e5-yCs"; */
+"3Ox-e5-yCs.normalTitle" = "Saved Messages";
+
+/* Class = "UILabel"; text = "Total Silence"; ObjectID = "3eM-D9-G7w"; */
+"3eM-D9-G7w.text" = "Total Silence";
+
+/* Class = "UILabel"; text = "HOURS"; ObjectID = "3hB-i9-Uki"; */
+"3hB-i9-Uki.text" = "HOURS";
+
+/* Class = "UISegmentedControl"; 56Z-ps-i6T.segmentTitles[0] = "Off"; ObjectID = "56Z-ps-i6T"; */
+"56Z-ps-i6T.segmentTitles[0]" = "Off";
+
+/* Class = "UISegmentedControl"; 56Z-ps-i6T.segmentTitles[1] = "On"; ObjectID = "56Z-ps-i6T"; */
+"56Z-ps-i6T.segmentTitles[1]" = "On";
+
+/* Class = "UILabel"; text = "Lightning"; ObjectID = "77K-xX-K1d"; */
+"77K-xX-K1d.text" = "Lightning";
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "78X-q1-A30"; */
+"78X-q1-A30.normalTitle" = "SEND";
+
+/* Class = "UILabel"; text = "EMAIL"; ObjectID = "9xe-Cj-rPD"; */
+"9xe-Cj-rPD.text" = "EMAIL";
+
+/* Class = "UILabel"; text = "General Inquiries on Intelligent"; ObjectID = "CxF-ts-4Md"; */
+"CxF-ts-4Md.text" = "General Inquiries on Intelligent";
+
+/* Class = "UILabel"; text = "Support Request"; ObjectID = "DsE-o6-jrT"; */
+"DsE-o6-jrT.text" = "Support Request";
+
+/* Class = "UIButton"; normalTitle = "Menu"; ObjectID = "GI2-1p-5yb"; */
+"GI2-1p-5yb.normalTitle" = "Menu";
+
+/* Class = "UILabel"; text = "ALERT LANGUAGE"; ObjectID = "GVE-tM-0ch"; */
+"GVE-tM-0ch.text" = "ALERT LANGUAGE";
+
+/* Class = "UILabel"; text = "Firstname Lastname"; ObjectID = "JXa-25-hoc"; */
+"JXa-25-hoc.text" = "Firstname Lastname";
+
+/* Class = "UILabel"; text = "9-5"; ObjectID = "KBa-xF-BjY"; */
+"KBa-xF-BjY.text" = "9-5";
+
+/* Class = "UIButton"; normalTitle = "email@email.com"; ObjectID = "NUA-9X-6bn"; */
+"NUA-9X-6bn.normalTitle" = "email@email.com";
+
+/* Class = "UISegmentedControl"; P2t-Bl-hw7.segmentTitles[0] = "First"; ObjectID = "P2t-Bl-hw7"; */
+"P2t-Bl-hw7.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; P2t-Bl-hw7.segmentTitles[1] = "Second"; ObjectID = "P2t-Bl-hw7"; */
+"P2t-Bl-hw7.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "My Info"; ObjectID = "Uih-3z-htx"; */
+"Uih-3z-htx.text" = "My Info";
+
+/* Class = "UIButton"; normalTitle = "Create A Group"; ObjectID = "Vr3-yA-J0W"; */
+"Vr3-yA-J0W.normalTitle" = "Create A Group";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "bXb-Vc-m15"; */
+"bXb-Vc-m15.normalTitle" = "Settings";
+
+/* Class = "UILabel"; text = "Severe Weather Audible Notifications"; ObjectID = "e1b-Oh-Ymg"; */
+"e1b-Oh-Ymg.text" = "Severe Weather Audible Notifications";
+
+/* Class = "UILabel"; text = "email@email.com"; ObjectID = "eZI-ys-pUo"; */
+"eZI-ys-pUo.text" = "email@email.com";
+
+/* Class = "UIButton"; normalTitle = "1-555-555-5555"; ObjectID = "efE-p5-ffw"; */
+"efE-p5-ffw.normalTitle" = "1-555-555-5555";
+
+/* Class = "UISegmentedControl"; ffF-8P-mxo.segmentTitles[0] = "Notifications"; ObjectID = "ffF-8P-mxo"; */
+"ffF-8P-mxo.segmentTitles[0]" = "Notifications";
+
+/* Class = "UISegmentedControl"; ffF-8P-mxo.segmentTitles[1] = "Account"; ObjectID = "ffF-8P-mxo"; */
+"ffF-8P-mxo.segmentTitles[1]" = "Account";
+
+/* Class = "UISegmentedControl"; ffF-8P-mxo.segmentTitles[2] = "Support"; ObjectID = "ffF-8P-mxo"; */
+"ffF-8P-mxo.segmentTitles[2]" = "Support";
+
+/* Class = "UILabel"; text = "PHONE NUMBER"; ObjectID = "gdC-TJ-OKe"; */
+"gdC-TJ-OKe.text" = "PHONE NUMBER";
+
+/* Class = "UILabel"; text = "Severe Weather"; ObjectID = "lWR-l9-GNN"; */
+"lWR-l9-GNN.text" = "Severe Weather";
+
+/* Class = "UILabel"; text = "NAME"; ObjectID = "mNE-SY-jaT"; */
+"mNE-SY-jaT.text" = "NAME";
+
+/* Class = "UIButton"; normalTitle = "Alert Language"; ObjectID = "nuG-0Y-jfI"; */
+"nuG-0Y-jfI.normalTitle" = "Alert Language";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "p2g-79-kQ0"; */
+"p2g-79-kQ0.text" = "00:00:00";
+
+/* Class = "UILabel"; text = "This field is required."; ObjectID = "tHv-wT-TwX"; */
+"tHv-wT-TwX.text" = "This field is required.";
+
+/* Class = "UILabel"; text = "EMAIL"; ObjectID = "zBo-S6-cpF"; */
+"zBo-S6-cpF.text" = "EMAIL";

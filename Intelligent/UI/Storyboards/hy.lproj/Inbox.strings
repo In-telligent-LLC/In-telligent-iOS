@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "0yG-4e-aDH"; */
+"0yG-4e-aDH.normalTitle" = "BACK";
+
+/* Class = "UITextView"; text = "Title multiline"; ObjectID = "2lV-kk-ALg"; */
+"2lV-kk-ALg.text" = "Title multiline";
+
+/* Class = "UIButton"; normalTitle = "TEXT TO SPEECH"; ObjectID = "M8O-X3-Fnh"; */
+"M8O-X3-Fnh.normalTitle" = "TEXT TO SPEECH";
+
+/* Class = "UILabel"; text = "Attachment(s): 3 total"; ObjectID = "WZj-rx-Mdw"; */
+"WZj-rx-Mdw.text" = "Attachment(s): 3 total";
+
+/* Class = "UIButton"; normalTitle = "SAVE MESSAGE"; ObjectID = "Zog-63-BYP"; */
+"Zog-63-BYP.normalTitle" = "SAVE MESSAGE";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "eVK-AQ-nWB"; */
+"eVK-AQ-nWB.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITabBarItem"; title = "Inbox"; ObjectID = "fJD-yI-R9O"; */
+"fJD-yI-R9O.title" = "Inbox";
+
+/* Class = "UIButton"; normalTitle = "TRANSLATE"; ObjectID = "lpY-HS-Pdi"; */
+"lpY-HS-Pdi.normalTitle" = "TRANSLATE";
+
+/* Class = "UILabel"; text = "Date, Notification Type"; ObjectID = "szU-wu-wUB"; */
+"szU-wu-wUB.text" = "Date, Notification Type";

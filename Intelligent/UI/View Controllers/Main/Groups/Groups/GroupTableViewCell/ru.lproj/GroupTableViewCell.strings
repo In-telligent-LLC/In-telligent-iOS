@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0b5-Uf-iQT"; */
+"0b5-Uf-iQT.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "DISCONNECT"; ObjectID = "DkA-cG-yDN"; */
+"DkA-cG-yDN.normalTitle" = "DISCONNECT";
+
+/* Class = "UIButton"; normalTitle = "ABOUT"; ObjectID = "E9Z-B2-F2c"; */
+"E9Z-B2-F2c.normalTitle" = "ABOUT";

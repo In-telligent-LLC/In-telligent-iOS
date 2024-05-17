@@ -1,0 +1,651 @@
+
+/* No comment provided by engineer. */
+"%d Attachments" = "%d Հավելվածներ";
+
+/* No comment provided by engineer. */
+"*When you send an urgent or emergency alert to the community, members will hear the alert sound." = "* Երբ հրատապ կամ արտակարգ իրավիճակների զգուշացում եք հաղորդում համայնքին, անդամները լսում են զգոնության ձայնը:";
+
+/* No comment provided by engineer. */
+"ABC" = "ABC";
+
+/* No comment provided by engineer. */
+"ABOUT" = "ՄԱՍԻՆ";
+
+/* No comment provided by engineer. */
+"Accepted" = "Ընդունված է";
+
+/* No comment provided by engineer. */
+"Account" = "Հաշիվ";
+
+/* No comment provided by engineer. */
+"Add Attachment" = "Ավելացնել հավելված";
+
+/* No comment provided by engineer. */
+"ALERT LANGUAGE" = "ALERT LANGUAGE- ը";
+
+/* No comment provided by engineer. */
+"Alert Sent" = "Զգուշացում ուղարկվեց";
+
+/* No comment provided by engineer. */
+"Alert Suggested" = "Առաջարկվող ծանուցում";
+
+/* No comment provided by engineer. */
+"All Subscribers" = "Բոլոր բաժանորդները";
+
+/* No comment provided by engineer. */
+"Already have an account? LOG IN" = "Արդեն ունեք հաշիվ? Մուտքագրեք";
+
+/* No comment provided by engineer. */
+"Always" = "Միշտ";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete %@?" = "Վստահ եք, որ ցանկանում եք ջնջել %@:";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete the invite for %@?" = "Վստահ եք, որ ցանկանում եք ջնջել հրավերը %@?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this group?" = "Վստահ եք, որ ցանկանում եք ջնջել այս խումբը:";
+
+/* No comment provided by engineer. */
+"Are you sure?" = "Համոզված ես?";
+
+/* No comment provided by engineer. */
+"Attachments" = "Հավելվածներ";
+
+/* No comment provided by engineer. */
+"Attachments: %d total" = "Հավելվածներ ` %d ընդհանուր";
+
+/* No comment provided by engineer. */
+"BACK" = "ՎԵՐԱԴԱՐՁ";
+
+/* No comment provided by engineer. */
+"Begin Call" = "Զանգահարեք";
+
+/* No comment provided by engineer. */
+"Call" = "Զանգահարեք";
+
+/* No comment provided by engineer. */
+"CANCEL" = "ԴԱԴԱՐԵՑՈՒՄ";
+
+/* No comment provided by engineer. */
+"Cancel" = "Չեղարկել";
+
+/* No comment provided by engineer. */
+"CHANGE PASSWORD" = "ՓՈԽԵԼ ԳԱՂՏՆԱԲԱՌԸ";
+
+/* No comment provided by engineer. */
+"Change Thumbnail" = "Փոփոխել նկարը";
+
+/* No comment provided by engineer. */
+"Changes Saved" = "Փոփոխությունները փրկվեցին";
+
+/* No comment provided by engineer. */
+"Close" = "փակել";
+
+/* No comment provided by engineer. */
+"Confirm Password" = "Հաստատել գաղտնաբառը";
+
+/* No comment provided by engineer. */
+"Connect" = "Միացեք";
+
+/* No comment provided by engineer. */
+"CONNECT" = "CONNECT- ը";
+
+/* No comment provided by engineer. */
+"Contact" = "Կապ";
+
+/* No comment provided by engineer. */
+"CREATE" = "Ստեղծեք";
+
+/* No comment provided by engineer. */
+"Create A Group" = "Ստեղծել խումբ";
+
+/* No comment provided by engineer. */
+"Create a New Group" = "Ստեղծեք նոր խումբ";
+
+/* No comment provided by engineer. */
+"Create Account" = "Գրանցվել";
+
+/* No comment provided by engineer. */
+"Create Thumbnail" = "Ստեղծեք thumbnail";
+
+/* No comment provided by engineer. */
+"Created on %@" = "Ստեղծված է %@";
+
+/* No comment provided by engineer. */
+"Critical" = "Քննադատական";
+
+/* No comment provided by engineer. */
+"DEF" = "DEF";
+
+/* No comment provided by engineer. */
+"Default Thumbnail" = "Default Thumbnail";
+
+/* No comment provided by engineer. */
+"Delete" = "Ջնջել";
+
+/* No comment provided by engineer. */
+"Delete Notification" = "Ջնջել ծանուցումը";
+
+/* No comment provided by engineer. */
+"Deliver To" = "Առաքելություն";
+
+/* No comment provided by engineer. */
+"Delivered:" = "Առաքվել:";
+
+/* No comment provided by engineer. */
+"DELIVERY INFORMATION" = "ԱՌԱՋԱՏԱՐ ՏԵՂԵԿՈՒԹՅՈՒՆՆԵՐ";
+
+/* No comment provided by engineer. */
+"DISCONNECT" = "DISCONNECT- ը";
+
+/* No comment provided by engineer. */
+"Do you want to disable Audible Lightning Alerts" = "Ցանկանում եք անջատել ձայնային լայթնային ազդանշաններ";
+
+/* No comment provided by engineer. */
+"Done" = "Կատարած";
+
+/* No comment provided by engineer. */
+"Edit Group" = "Խմբագրել խումբը";
+
+/* No comment provided by engineer. */
+"Edit Member" = "Խմբագրել անդամը";
+
+/* No comment provided by engineer. */
+"Email" = "Email";
+
+/* No comment provided by engineer. */
+"EMAIL" = "EMAIL";
+
+/* No comment provided by engineer. */
+"Emergency Services" = "Արտակարգ իրավիճակների ծառայություններ";
+
+/* No comment provided by engineer. */
+"End Call" = "Վերջակիր զանգ";
+
+/* No comment provided by engineer. */
+"Enter Description" = "Մուտքագրեք Նկարագրություն";
+
+/* No comment provided by engineer. */
+"Enter Email Address" = "Մուտքագրեք էլ. Փոստի հասցեն";
+
+/* No comment provided by engineer. */
+"Enter Message" = "Մուտքագրեք հաղորդագրություն";
+
+/* No comment provided by engineer. */
+"Enter Title" = "Մուտքագրեք վերնագիրը";
+
+/* No comment provided by engineer. */
+"FIND" = "Գտեք";
+
+/* No comment provided by engineer. */
+"Find Member" = "Գտնել անդամ";
+
+/* No comment provided by engineer. */
+"FIRST TIME USER" = "ԱՌԱՋԻՆ ԱՆԳԱՄ USER";
+
+/* No comment provided by engineer. */
+"Forgot Password" = "Մոռացել եք գաղտնաբառը";
+
+/* No comment provided by engineer. */
+"FORGOT/CHANGE PASSWORD" = "ՁԵՐԲԱԿԱԼԵԼ / ՓՈՓՈԽՈՒԹՅՈՒՆ ԱՆՑԿԱՑՆԵԼ";
+
+/* No comment provided by engineer. */
+"Full Name" = "Ամբողջ Անունը";
+
+/* No comment provided by engineer. */
+"General Inquires on In-telligent" = "Ընդհանուր հարցումներ հարցազրույցի մասին";
+
+/* No comment provided by engineer. */
+"GHI" = "ՌԵԿՈՐԴ";
+
+/* No comment provided by engineer. */
+"Group Created" = "Ստեղծված խումբ";
+
+/* No comment provided by engineer. */
+"Group Deleted" = "Խումբը ջնջվել է";
+
+/* No comment provided by engineer. */
+"Group Name" = "Խմբի անունը";
+
+/* No comment provided by engineer. */
+"Groups" = "Խմբեր";
+
+/* No comment provided by engineer. */
+"Helplines & Hotlines" = "Հղումներ եւ թեժ գիծ";
+
+/* No comment provided by engineer. */
+"How many hours would you like total silence for?" = "Քանի ժամ կցանկանայիք ամբողջ լռությունը:";
+
+/* No comment provided by engineer. */
+"IGNORE" = "IGNORE- ը";
+
+/* No comment provided by engineer. */
+"In-telligent" = "Խելացի";
+
+/* No comment provided by engineer. */
+"In-telligent and All Emails" = "In-telligent եւ բոլոր էլ-նամակները";
+
+/* No comment provided by engineer. */
+"In-telligent and Imported Emails" = "Ներկայացված եւ ներմուծվող էլ-նամակները";
+
+/* No comment provided by engineer. */
+"Inbox" = "Ներարկղ";
+
+/* No comment provided by engineer. */
+"Invalid building" = "Անվավեր շենք";
+
+/* No comment provided by engineer. */
+"Invalid Password" = "Անվավեր Գաղտնաբառ";
+
+/* No comment provided by engineer. */
+"Invalid reset code. Please try again." = "Սխալ վերականգնման կոդը: Խնդրում եմ կրկին փորձեք.";
+
+/* No comment provided by engineer. */
+"Invite New Member" = "Հրավիրեք նոր անդամ";
+
+/* No comment provided by engineer. */
+"INVITE OTHERS TO JOIN" = "ՀՐԱՎԻՐԻ ԴԱՍԵՐԸ ԿՄԱՍՆԱԿՑԻ";
+
+/* No comment provided by engineer. */
+"Invited" = "Հրավիրված";
+
+/* No comment provided by engineer. */
+"JKL" = "JKL";
+
+/* No comment provided by engineer. */
+"JOIN NOW" = "ՄԻԱՑԻՐ ՀԻՄԱ";
+
+/* No comment provided by engineer. */
+"Join now with Facebook" = "Միացեք Facebook- ի հետ";
+
+/* No comment provided by engineer. */
+"Join now with Google" = "Միացեք Google- ին";
+
+/* No comment provided by engineer. */
+"Life Safety" = "Կյանքի անվտանգությունը";
+
+/* No comment provided by engineer. */
+"Lightning" = "Կայծակ";
+
+/* No comment provided by engineer. */
+"Lightning Alert" = "Lightning Alert- ը";
+
+/* No comment provided by engineer. */
+"Listen to the emergency alert sound" = "Լսեք արտակարգ ահազանգի ձայնին";
+
+/* No comment provided by engineer. */
+"Listen to the urgent alert sound" = "Լսեք հրատապ ահազանգի ձայնին";
+
+/* No comment provided by engineer. */
+"LOG IN" = "Մուտքագրեք";
+
+/* No comment provided by engineer. */
+"Log in with Facebook" = "Մտնել Ֆեյսբուքով";
+
+/* No comment provided by engineer. */
+"Log in with Google" = "Մուտք գործեք Google- ի միջոցով";
+
+/* No comment provided by engineer. */
+"Log Out" = "Դուրս եկեք";
+
+/* No comment provided by engineer. */
+"Menu" = "Մենյու";
+
+/* No comment provided by engineer. */
+"Message" = "Հաղորդագրություն";
+
+/* No comment provided by engineer. */
+"MESSAGE FEED" = "ՄԻՋԱԶԳԱՅԻՆ ՖԵԴԵՐ";
+
+/* No comment provided by engineer. */
+"MNO" = "ՄՆՕ";
+
+/* No comment provided by engineer. */
+"My Account" = "Իմ հաշիվը";
+
+/* No comment provided by engineer. */
+"My Groups" = "Իմ խմբերը";
+
+/* No comment provided by engineer. */
+"My Info" = "Իմ տեղեկությունները";
+
+/* No comment provided by engineer. */
+"NAME" = "ԱՆՈՒՆ";
+
+/* No comment provided by engineer. */
+"Name" = "Անուն";
+
+/* No comment provided by engineer. */
+"Name Your Group" = "Անվանեք ձեր խումբը";
+
+/* No comment provided by engineer. */
+"Name:" = "Անուն:";
+
+/* No comment provided by engineer. */
+"Never" = "Երբեք";
+
+/* No comment provided by engineer. */
+"NEXT" = "NEXT- ը";
+
+/* No comment provided by engineer. */
+"No" = "Ոչ";
+
+/* No comment provided by engineer. */
+"None" = "Ոչ ոք";
+
+/* No comment provided by engineer. */
+"Normal" = "Նորմալ";
+
+/* No comment provided by engineer. */
+"Notifications" = "Ծանուցումներ";
+
+/* No comment provided by engineer. */
+"Off" = "Off";
+
+/* No comment provided by engineer. */
+"OK" = "լավ";
+
+/* No comment provided by engineer. */
+"On" = "Վրա";
+
+/* No comment provided by engineer. */
+"Only When I'm Here" = "Միայն այն ժամանակ, երբ ես այստեղ եմ";
+
+/* No comment provided by engineer. */
+"or" = "կամ";
+
+/* No comment provided by engineer. */
+"OR" = "ԿԱՄ";
+
+/* No comment provided by engineer. */
+"Organizations" = "Կազմակերպություններ";
+
+/* No comment provided by engineer. */
+"Other Groups" = "Այլ խմբեր";
+
+/* No comment provided by engineer. */
+"Password" = "Գաղտնաբառ";
+
+/* No comment provided by engineer. */
+"Password Required" = "Գաղտնաբառը պարտադիր է";
+
+/* No comment provided by engineer. */
+"Passwords must match" = "Գաղտնաբառերը պետք է համընկնեն";
+
+/* No comment provided by engineer. */
+"PC Emergency" = "PC արտակարգ";
+
+/* No comment provided by engineer. */
+"PC Urgent" = "PC շտապ";
+
+/* No comment provided by engineer. */
+"Pending..." = "Սպասում է ...";
+
+/* No comment provided by engineer. */
+"People" = "Ժողովուրդ";
+
+/* No comment provided by engineer. */
+"Personal Safety" = "Անձնական անվտանգություն";
+
+/* No comment provided by engineer. */
+"Phone Number" = "Հեռախոսահամար";
+
+/* No comment provided by engineer. */
+"Ping" = "Ping";
+
+/* No comment provided by engineer. */
+"Please input a valid confirmed password" = "Մուտքագրեք վավեր հաստատված գաղտնաբառը";
+
+/* No comment provided by engineer. */
+"Please input a valid description" = "Մուտքագրեք վավեր նկարագրություն";
+
+/* No comment provided by engineer. */
+"Please input a valid email" = "Մուտքագրեք վավեր էլ";
+
+/* No comment provided by engineer. */
+"Please input a valid email or phone number" = "Մուտքագրեք վավեր էլփոստ կամ հեռախոսահամար";
+
+/* No comment provided by engineer. */
+"Please input a valid message" = "Մուտքագրեք վավեր հաղորդագրություն";
+
+/* No comment provided by engineer. */
+"Please input a valid name" = "Մուտքագրեք վավեր անուն";
+
+/* No comment provided by engineer. */
+"Please input a valid password" = "Մուտքագրեք վավեր գաղտնաբառ";
+
+/* No comment provided by engineer. */
+"Please input a valid phone number" = "Մուտքագրեք վավեր հեռախոսահամար";
+
+/* No comment provided by engineer. */
+"Please input a valid title" = "Մուտքագրեք վավեր վերնագիր";
+
+/* No comment provided by engineer. */
+"Please select a deliver to" = "Խնդրում ենք ընտրել առաքում";
+
+/* No comment provided by engineer. */
+"Please select a group that you would like to contact" = "Խնդրում ենք ընտրել մի խումբ, որը ցանկանում եք կապվել";
+
+/* No comment provided by engineer. */
+"Please select a notification type" = "Խնդրում ենք ընտրել ծանուցման տիպը";
+
+/* No comment provided by engineer. */
+"Please select a send to" = "Խնդրում ենք ընտրել ուղարկել";
+
+/* No comment provided by engineer. */
+"PQRS" = "PQRS";
+
+/* No comment provided by engineer. */
+"Read less" = "Կարդալ քիչ";
+
+/* No comment provided by engineer. */
+"Read more" = "Կարդալ ավելին";
+
+/* No comment provided by engineer. */
+"Receive regular alerts" = "Ստացեք կանոնավոր հիշեցումներ";
+
+/* No comment provided by engineer. */
+"Received:" = "Ստացվել է `";
+
+/* No comment provided by engineer. */
+"Remove %@" = "Հեռացնել %@";
+
+/* No comment provided by engineer. */
+"Remove Attachment" = "Հեռացնել հավելվածը";
+
+/* No comment provided by engineer. */
+"Request Submitted" = "Ներկայացված խնդրանքը";
+
+/* No comment provided by engineer. */
+"Reset Password" = "Վերագործարկեք գաղտնաբառը";
+
+/* No comment provided by engineer. */
+"Response" = "Պատասխան";
+
+/* No comment provided by engineer. */
+"RETURNING SUBSCRIBER" = "ՎԵՐԱՀՍԿՈՂԱԿԱՆ ԱՇԽԱՏԱՆՔԸ";
+
+/* No comment provided by engineer. */
+"SAVE CHANGES" = "ՊԱՀՊԱՆԵԼ ՓՈՓՈԽՈՒԹՅՈՒՆՆԵՐԸ";
+
+/* No comment provided by engineer. */
+"SAVE MESSAGE" = "Պահել հաղորդագրությունը";
+
+/* No comment provided by engineer. */
+"Saved" = "Պահված";
+
+/* No comment provided by engineer. */
+"Saved Messages" = "Պահված հաղորդագրություններ";
+
+/* No comment provided by engineer. */
+"Search for Group" = "Որոնել խմբի համար";
+
+/* No comment provided by engineer. */
+"Search for Groups" = "Որոնել Խմբեր";
+
+/* No comment provided by engineer. */
+"Select Thumbnail:" = "Ընտրեք Thumbnail:";
+
+/* No comment provided by engineer. */
+"SEND" = "ՈՒՂԱՐԿԵԼ";
+
+/* No comment provided by engineer. */
+"SEND INVITE & SAVE CONTACT" = "ՈՒՂԱՐԿԵԼ ԵՎ ԽՆԴԻՐ ԿԱՊԻ";
+
+/* No comment provided by engineer. */
+"Send Message" = "Ուղարկել հաղորդագրություն";
+
+/* No comment provided by engineer. */
+"Send To" = "Ուղարկել";
+
+/* No comment provided by engineer. */
+"Settings" = "Կարգավորումներ";
+
+/* No comment provided by engineer. */
+"Severe Weather" = "Լուրջ Եղանակ";
+
+/* No comment provided by engineer. */
+"Specific Subscribers" = "Հատուկ բաժանորդներ";
+
+/* No comment provided by engineer. */
+"Specify Subscribers" = "Նշեք բաժանորդներին";
+
+/* No comment provided by engineer. */
+"STOP SPEAKING" = "ԴԱԴԱՐԵՑՆԵԼ ԽՈՍՔԸ";
+
+/* No comment provided by engineer. */
+"SUBMIT" = "ՆԵՐԿԱՅԱՑՆԵԼ";
+
+/* No comment provided by engineer. */
+"SUBSCRIBE" = "Բաժանորդագրվել";
+
+/* No comment provided by engineer. */
+"Suggest Message" = "Առաջարկել Հաղորդագրություն";
+
+/* No comment provided by engineer. */
+"Suggested" = "Առաջարկված";
+
+/* No comment provided by engineer. */
+"Suggested Groups" = "Առաջարկվող խմբերը";
+
+/* No comment provided by engineer. */
+"Support" = "Աջակցություն";
+
+/* No comment provided by engineer. */
+"TEXT TO SPEECH" = "ՏԵՔՍՏԸ ԽՈՍՔԸ";
+
+/* No comment provided by engineer. */
+"Thanks! Check your email in a few minutes for the password reset link." = "Շնորհակալություն: Ստուգեք ձեր էլփոստը մի քանի րոպեների ընթացքում, գաղտնաբառի վերակայման հղումը:";
+
+/* No comment provided by engineer. */
+"This field is required." = "Այս դաշտը պարտադիր է:";
+
+/* No comment provided by engineer. */
+"Timer: %@" = "Ժամեր ` %@";
+
+/* No comment provided by engineer. */
+"Total Members (%d)" = "Ընդամենը անդամները (%d)";
+
+/* No comment provided by engineer. */
+"Total Silence" = "Ընդհանուր լռություն";
+
+/* No comment provided by engineer. */
+"TRANSLATE" = "ՏՐԱՆՍԼԱՏ";
+
+/* No comment provided by engineer. */
+"Translate to:" = "Թարգմանել `";
+
+/* No comment provided by engineer. */
+"TUV" = "TUV";
+
+/* No comment provided by engineer. */
+"Type of Alert" = "Զգուշացման տեսակը";
+
+/* No comment provided by engineer. */
+"Unread" = "Չընթերցված";
+
+/* No comment provided by engineer. */
+"UNSAVE MESSAGE" = "UNSAVE MESSAGE- ը";
+
+/* No comment provided by engineer. */
+"VIEW" = "VIEW";
+
+/* No comment provided by engineer. */
+"VIEW ALERTS" = "ՈՐՈՇ ԱՂԲՅՈՒՐ";
+
+/* No comment provided by engineer. */
+"VIEW MEMBERS" = "Դիտել անդամները";
+
+/* No comment provided by engineer. */
+"Weather" = "Եղանակը";
+
+/* No comment provided by engineer. */
+"WXYZ" = "WXYZ";
+
+/* No comment provided by engineer. */
+"Yes" = "Այո";
+
+/* No comment provided by engineer. */
+"Are you OK?" = "Լավ ես?";
+
+/* No comment provided by engineer. */
+"CALL COMMUNITY MANAGER" = "ԿՈՄԻՏԱՍԻ ԿԱՌԱՎԱՐՈՒԹՅԱՆ ԿԱՌԱՎԱՐՉԻ";
+
+/* No comment provided by engineer. */
+"Error" = "Սխալ";
+
+/* No comment provided by engineer. */
+"Indeterminate progress" = "";
+
+/* No comment provided by engineer. */
+"Loading" = "";
+
+/* No comment provided by engineer. */
+"Success" = "";
+
+/* Format for the string to return to a calling app. */
+"Touch to return to %1$@" = "";
+
+/* No comment provided by engineer. */
+"Would you like to call your community manager?" = "Ցանկանում եք զանգահարել ձեր համայնքի ղեկավարին:";
+
+/* No comment provided by engineer. */
+"An unknown error occurred. Please contact support if the issue persists" = "Անհայտ սխալ տեղի ունեցավ: Խնդրում ենք կապ հաստատել, եթե խնդիրը չկատարվի";
+
+/* No comment provided by engineer. */
+"FILTER" = "Ֆիլտր";
+
+/* No comment provided by engineer. */
+"Hours" = "Ժամեր";
+
+/* No comment provided by engineer. */
+"Opt-Out" = "Ընդհատել";
+
+/* No comment provided by engineer. */
+"This group is password protected, you must subscribe to see it's messages" = "Այս խումբը գաղտնաբառով պաշտպանված է, դուք պետք է բաժանորդագրվեք `այն հաղորդագրությունները տեսնելու համար";
+
+/* No comment provided by engineer. */
+"Would you like to opt-out from automatic subscriptions to %@?" = "Ցանկանում եք հրաժարվել ավտոմատ բաժանորդագրություններից մինչեւ% @:";
+
+/* No comment provided by engineer. */
+"Viewed:" = "Դիտվել է `";
+
+/* No comment provided by engineer. */
+"There are no subscribers in this group" = "Այս խմբում բաժանորդներ չկան";
+
+/* No comment provided by engineer. */
+"Search for Members" = "Որոնել անդամների համար";
+
+/* No comment provided by engineer. */
+"Are you sure you want to join?" = "Վստահ եք, որ ցանկանում եք միանալ:";
+
+/* No comment provided by engineer. */
+"You have been invited to join %@" = "Դուք հրավիրվել եք միանալու %@";
+
+/* No comment provided by engineer. */
+"Please select the group members that you would like to contact" = "Խնդրում ենք ընտրել խմբի անդամներին, որոնք ցանկանում եք կապվել";
+
+/* No comment provided by engineer. */
+"Selected Members (%d)" = "Ընտրված անդամներ (%d)";

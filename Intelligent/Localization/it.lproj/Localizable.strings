@@ -1,0 +1,651 @@
+
+/* No comment provided by engineer. */
+"%d Attachments" = "%d allegati";
+
+/* No comment provided by engineer. */
+"*When you send an urgent or emergency alert to the community, members will hear the alert sound." = "* Quando invii un avviso urgente o di emergenza alla comunità, i membri sentiranno il suono di avviso.";
+
+/* No comment provided by engineer. */
+"ABC" = "ABC";
+
+/* No comment provided by engineer. */
+"ABOUT" = "DI";
+
+/* No comment provided by engineer. */
+"Accepted" = "Accettato";
+
+/* No comment provided by engineer. */
+"Account" = "account";
+
+/* No comment provided by engineer. */
+"Add Attachment" = "Aggiungi allegato";
+
+/* No comment provided by engineer. */
+"ALERT LANGUAGE" = "ALERT LANGUAGE";
+
+/* No comment provided by engineer. */
+"Alert Sent" = "Avviso inviato";
+
+/* No comment provided by engineer. */
+"Alert Suggested" = "Avviso suggerito";
+
+/* No comment provided by engineer. */
+"All Subscribers" = "Tutti gli abbonati";
+
+/* No comment provided by engineer. */
+"Already have an account? LOG IN" = "Hai già un account? ACCESSO";
+
+/* No comment provided by engineer. */
+"Always" = "Sempre";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete %@?" = "Sei sicuro di voler eliminare %@?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete the invite for %@?" = "Sei sicuro di voler eliminare l'invito per %@?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this group?" = "Sei sicuro di voler eliminare questo gruppo?";
+
+/* No comment provided by engineer. */
+"Are you sure?" = "Sei sicuro?";
+
+/* No comment provided by engineer. */
+"Attachments" = "allegati";
+
+/* No comment provided by engineer. */
+"Attachments: %d total" = "Allegati: %d totale";
+
+/* No comment provided by engineer. */
+"BACK" = "INDIETRO";
+
+/* No comment provided by engineer. */
+"Begin Call" = "Inizia la chiamata";
+
+/* No comment provided by engineer. */
+"Call" = "Chiamata";
+
+/* No comment provided by engineer. */
+"CANCEL" = "ANNULLA";
+
+/* No comment provided by engineer. */
+"Cancel" = "Annulla";
+
+/* No comment provided by engineer. */
+"CHANGE PASSWORD" = "CAMBIA LA PASSWORD";
+
+/* No comment provided by engineer. */
+"Change Thumbnail" = "Modifica miniatura";
+
+/* No comment provided by engineer. */
+"Changes Saved" = "Modifiche salvate";
+
+/* No comment provided by engineer. */
+"Close" = "Vicino";
+
+/* No comment provided by engineer. */
+"Confirm Password" = "conferma password";
+
+/* No comment provided by engineer. */
+"Connect" = "Collegare";
+
+/* No comment provided by engineer. */
+"CONNECT" = "COLLEGARE";
+
+/* No comment provided by engineer. */
+"Contact" = "Contatto";
+
+/* No comment provided by engineer. */
+"CREATE" = "CREARE";
+
+/* No comment provided by engineer. */
+"Create A Group" = "Crea un gruppo";
+
+/* No comment provided by engineer. */
+"Create a New Group" = "Crea un nuovo gruppo";
+
+/* No comment provided by engineer. */
+"Create Account" = "Creare un profilo";
+
+/* No comment provided by engineer. */
+"Create Thumbnail" = "Crea miniatura";
+
+/* No comment provided by engineer. */
+"Created on %@" = "Creato %@";
+
+/* No comment provided by engineer. */
+"Critical" = "critico";
+
+/* No comment provided by engineer. */
+"DEF" = "DEF";
+
+/* No comment provided by engineer. */
+"Default Thumbnail" = "Miniatura predefinita";
+
+/* No comment provided by engineer. */
+"Delete" = "Elimina";
+
+/* No comment provided by engineer. */
+"Delete Notification" = "Elimina notifica";
+
+/* No comment provided by engineer. */
+"Deliver To" = "Spedire a";
+
+/* No comment provided by engineer. */
+"Delivered:" = "Consegna:";
+
+/* No comment provided by engineer. */
+"DELIVERY INFORMATION" = "INFORMAZIONI SULLA CONSEGNA";
+
+/* No comment provided by engineer. */
+"DISCONNECT" = "DISCONNECT";
+
+/* No comment provided by engineer. */
+"Do you want to disable Audible Lightning Alerts" = "Vuoi disabilitare gli avvisi di Lightning Audible";
+
+/* No comment provided by engineer. */
+"Done" = "Fatto";
+
+/* No comment provided by engineer. */
+"Edit Group" = "Modifica gruppo";
+
+/* No comment provided by engineer. */
+"Edit Member" = "Modifica membro";
+
+/* No comment provided by engineer. */
+"Email" = "E-mail";
+
+/* No comment provided by engineer. */
+"EMAIL" = "E-MAIL";
+
+/* No comment provided by engineer. */
+"Emergency Services" = "Servizi di emergenza";
+
+/* No comment provided by engineer. */
+"End Call" = "Fine chiamata";
+
+/* No comment provided by engineer. */
+"Enter Description" = "Inserisci descrizione";
+
+/* No comment provided by engineer. */
+"Enter Email Address" = "Inserisci l'indirizzo email";
+
+/* No comment provided by engineer. */
+"Enter Message" = "Inserisci il messaggio";
+
+/* No comment provided by engineer. */
+"Enter Title" = "Inserisci il titolo";
+
+/* No comment provided by engineer. */
+"FIND" = "TROVA";
+
+/* No comment provided by engineer. */
+"Find Member" = "Trova membro";
+
+/* No comment provided by engineer. */
+"FIRST TIME USER" = "UTENTE PER LA PRIMA VOLTA";
+
+/* No comment provided by engineer. */
+"Forgot Password" = "Ha dimenticato la password";
+
+/* No comment provided by engineer. */
+"FORGOT/CHANGE PASSWORD" = "DIMENTICATO / CAMBIA PASSWORD";
+
+/* No comment provided by engineer. */
+"Full Name" = "Nome e cognome";
+
+/* No comment provided by engineer. */
+"General Inquires on In-telligent" = "Informazioni generali su In-telligent";
+
+/* No comment provided by engineer. */
+"GHI" = "RECORD";
+
+/* No comment provided by engineer. */
+"Group Created" = "Gruppo creato";
+
+/* No comment provided by engineer. */
+"Group Deleted" = "Gruppo eliminato";
+
+/* No comment provided by engineer. */
+"Group Name" = "Nome del gruppo";
+
+/* No comment provided by engineer. */
+"Groups" = "gruppi";
+
+/* No comment provided by engineer. */
+"Helplines & Hotlines" = "Linee di assistenza e linee telefoniche";
+
+/* No comment provided by engineer. */
+"How many hours would you like total silence for?" = "Per quante ore ti piacerebbe il silenzio totale?";
+
+/* No comment provided by engineer. */
+"IGNORE" = "IGNORARE";
+
+/* No comment provided by engineer. */
+"In-telligent" = "Intelligente";
+
+/* No comment provided by engineer. */
+"In-telligent and All Emails" = "In-telligent e tutte le e-mail";
+
+/* No comment provided by engineer. */
+"In-telligent and Imported Emails" = "Email in-telligent e importate";
+
+/* No comment provided by engineer. */
+"Inbox" = "Posta in arrivo";
+
+/* No comment provided by engineer. */
+"Invalid building" = "Edificio non valido";
+
+/* No comment provided by engineer. */
+"Invalid Password" = "Password non valida";
+
+/* No comment provided by engineer. */
+"Invalid reset code. Please try again." = "Codice di reset non valido Per favore riprova.";
+
+/* No comment provided by engineer. */
+"Invite New Member" = "Invita un nuovo membro";
+
+/* No comment provided by engineer. */
+"INVITE OTHERS TO JOIN" = "INVITA ALTRI AD UNIRE";
+
+/* No comment provided by engineer. */
+"Invited" = "Invitato";
+
+/* No comment provided by engineer. */
+"JKL" = "JKL";
+
+/* No comment provided by engineer. */
+"JOIN NOW" = "ISCRIVITI ADESSO";
+
+/* No comment provided by engineer. */
+"Join now with Facebook" = "Iscriviti ora con Facebook";
+
+/* No comment provided by engineer. */
+"Join now with Google" = "Registrati ora con Google";
+
+/* No comment provided by engineer. */
+"Life Safety" = "Life Safety";
+
+/* No comment provided by engineer. */
+"Lightning" = "fulmine";
+
+/* No comment provided by engineer. */
+"Lightning Alert" = "Avviso di fulmine";
+
+/* No comment provided by engineer. */
+"Listen to the emergency alert sound" = "Ascolta il suono di avviso di emergenza";
+
+/* No comment provided by engineer. */
+"Listen to the urgent alert sound" = "Ascolta il suono di avviso urgente";
+
+/* No comment provided by engineer. */
+"LOG IN" = "ACCESSO";
+
+/* No comment provided by engineer. */
+"Log in with Facebook" = "Fai il login con facebook";
+
+/* No comment provided by engineer. */
+"Log in with Google" = "Accedi con Google";
+
+/* No comment provided by engineer. */
+"Log Out" = "Disconnettersi";
+
+/* No comment provided by engineer. */
+"Menu" = "Menu";
+
+/* No comment provided by engineer. */
+"Message" = "Messaggio";
+
+/* No comment provided by engineer. */
+"MESSAGE FEED" = "MESSAGGIO ALIMENTARE";
+
+/* No comment provided by engineer. */
+"MNO" = "MNO";
+
+/* No comment provided by engineer. */
+"My Account" = "Il mio account";
+
+/* No comment provided by engineer. */
+"My Groups" = "I miei gruppi";
+
+/* No comment provided by engineer. */
+"My Info" = "Le mie informazioni";
+
+/* No comment provided by engineer. */
+"NAME" = "NOME";
+
+/* No comment provided by engineer. */
+"Name" = "Nome";
+
+/* No comment provided by engineer. */
+"Name Your Group" = "Assegna un nome al tuo gruppo";
+
+/* No comment provided by engineer. */
+"Name:" = "Nome:";
+
+/* No comment provided by engineer. */
+"Never" = "Mai";
+
+/* No comment provided by engineer. */
+"NEXT" = "IL PROSSIMO";
+
+/* No comment provided by engineer. */
+"No" = "No";
+
+/* No comment provided by engineer. */
+"None" = "Nessuna";
+
+/* No comment provided by engineer. */
+"Normal" = "Normale";
+
+/* No comment provided by engineer. */
+"Notifications" = "notifiche";
+
+/* No comment provided by engineer. */
+"Off" = "via";
+
+/* No comment provided by engineer. */
+"OK" = "ok";
+
+/* No comment provided by engineer. */
+"On" = "Sopra";
+
+/* No comment provided by engineer. */
+"Only When I'm Here" = "Solo quando sono qui";
+
+/* No comment provided by engineer. */
+"or" = "o";
+
+/* No comment provided by engineer. */
+"OR" = "O";
+
+/* No comment provided by engineer. */
+"Organizations" = "organizzazioni";
+
+/* No comment provided by engineer. */
+"Other Groups" = "Altri gruppi";
+
+/* No comment provided by engineer. */
+"Password" = "Parola d'ordine";
+
+/* No comment provided by engineer. */
+"Password Required" = "Password richiesta";
+
+/* No comment provided by engineer. */
+"Passwords must match" = "Le password devono essere identiche";
+
+/* No comment provided by engineer. */
+"PC Emergency" = "Emergenza PC";
+
+/* No comment provided by engineer. */
+"PC Urgent" = "PC urgente";
+
+/* No comment provided by engineer. */
+"Pending..." = "In attesa di...";
+
+/* No comment provided by engineer. */
+"People" = "Persone";
+
+/* No comment provided by engineer. */
+"Personal Safety" = "Sicurezza personale";
+
+/* No comment provided by engineer. */
+"Phone Number" = "Numero di telefono";
+
+/* No comment provided by engineer. */
+"Ping" = "ping";
+
+/* No comment provided by engineer. */
+"Please input a valid confirmed password" = "Si prega di inserire una password confermata valida";
+
+/* No comment provided by engineer. */
+"Please input a valid description" = "Si prega di inserire una descrizione valida";
+
+/* No comment provided by engineer. */
+"Please input a valid email" = "Si prega di inserire un indirizzo email valido";
+
+/* No comment provided by engineer. */
+"Please input a valid email or phone number" = "Inserisci un indirizzo email o un numero di telefono valido";
+
+/* No comment provided by engineer. */
+"Please input a valid message" = "Si prega di inserire un messaggio valido";
+
+/* No comment provided by engineer. */
+"Please input a valid name" = "Si prega di inserire un nome valido";
+
+/* No comment provided by engineer. */
+"Please input a valid password" = "Si prega di inserire una password valida";
+
+/* No comment provided by engineer. */
+"Please input a valid phone number" = "Si prega di inserire un numero di telefono valido";
+
+/* No comment provided by engineer. */
+"Please input a valid title" = "Si prega di inserire un titolo valido";
+
+/* No comment provided by engineer. */
+"Please select a deliver to" = "Si prega di selezionare una consegna a";
+
+/* No comment provided by engineer. */
+"Please select a group that you would like to contact" = "Si prega di selezionare un gruppo che si desidera contattare";
+
+/* No comment provided by engineer. */
+"Please select a notification type" = "Si prega di selezionare un tipo di notifica";
+
+/* No comment provided by engineer. */
+"Please select a send to" = "Si prega di selezionare un invio a";
+
+/* No comment provided by engineer. */
+"PQRS" = "PQRS";
+
+/* No comment provided by engineer. */
+"Read less" = "Leggi meno";
+
+/* No comment provided by engineer. */
+"Read more" = "Leggi di più";
+
+/* No comment provided by engineer. */
+"Receive regular alerts" = "Ricevi avvisi regolari";
+
+/* No comment provided by engineer. */
+"Received:" = "ricevuto:";
+
+/* No comment provided by engineer. */
+"Remove %@" = "Rimuovi %@";
+
+/* No comment provided by engineer. */
+"Remove Attachment" = "Rimuovi allegato";
+
+/* No comment provided by engineer. */
+"Request Submitted" = "Richiesta inviata";
+
+/* No comment provided by engineer. */
+"Reset Password" = "Resetta la password";
+
+/* No comment provided by engineer. */
+"Response" = "Risposta";
+
+/* No comment provided by engineer. */
+"RETURNING SUBSCRIBER" = "RESTITUISCE L'ISCRIZIONE";
+
+/* No comment provided by engineer. */
+"SAVE CHANGES" = "SALVA I CAMBIAMENTI";
+
+/* No comment provided by engineer. */
+"SAVE MESSAGE" = "SALVA MESSAGGIO";
+
+/* No comment provided by engineer. */
+"Saved" = "Salvato";
+
+/* No comment provided by engineer. */
+"Saved Messages" = "Messaggi salvati";
+
+/* No comment provided by engineer. */
+"Search for Group" = "Cerca per gruppo";
+
+/* No comment provided by engineer. */
+"Search for Groups" = "Cerca gruppi";
+
+/* No comment provided by engineer. */
+"Select Thumbnail:" = "Seleziona miniatura:";
+
+/* No comment provided by engineer. */
+"SEND" = "INVIARE";
+
+/* No comment provided by engineer. */
+"SEND INVITE & SAVE CONTACT" = "INVIA INVITO E SALVA CONTATTO";
+
+/* No comment provided by engineer. */
+"Send Message" = "Invia messaggio";
+
+/* No comment provided by engineer. */
+"Send To" = "Inviare a";
+
+/* No comment provided by engineer. */
+"Settings" = "impostazioni";
+
+/* No comment provided by engineer. */
+"Severe Weather" = "Cattive condizioni meteo";
+
+/* No comment provided by engineer. */
+"Specific Subscribers" = "Abbonati specifici";
+
+/* No comment provided by engineer. */
+"Specify Subscribers" = "Specifica Iscritti";
+
+/* No comment provided by engineer. */
+"STOP SPEAKING" = "FERMATE DI PARLARE";
+
+/* No comment provided by engineer. */
+"SUBMIT" = "SOTTOSCRIVI";
+
+/* No comment provided by engineer. */
+"SUBSCRIBE" = "SOTTOSCRIVI";
+
+/* No comment provided by engineer. */
+"Suggest Message" = "Suggerisci un messaggio";
+
+/* No comment provided by engineer. */
+"Suggested" = "consigliato";
+
+/* No comment provided by engineer. */
+"Suggested Groups" = "Gruppi suggeriti";
+
+/* No comment provided by engineer. */
+"Support" = "Supporto";
+
+/* No comment provided by engineer. */
+"TEXT TO SPEECH" = "TESTO A DISCORSO";
+
+/* No comment provided by engineer. */
+"Thanks! Check your email in a few minutes for the password reset link." = "Grazie! Controlla la tua email in pochi minuti per il link di reimpostazione della password.";
+
+/* No comment provided by engineer. */
+"This field is required." = "Questo campo è obbligatorio.";
+
+/* No comment provided by engineer. */
+"Timer: %@" = "Ore: %@";
+
+/* No comment provided by engineer. */
+"Total Members (%d)" = "Membri totali (%d)";
+
+/* No comment provided by engineer. */
+"Total Silence" = "Silenzio totale";
+
+/* No comment provided by engineer. */
+"TRANSLATE" = "TRADURRE";
+
+/* No comment provided by engineer. */
+"Translate to:" = "Traduci in:";
+
+/* No comment provided by engineer. */
+"TUV" = "TUV";
+
+/* No comment provided by engineer. */
+"Type of Alert" = "Tipo di avviso";
+
+/* No comment provided by engineer. */
+"Unread" = "Non letto";
+
+/* No comment provided by engineer. */
+"UNSAVE MESSAGE" = "UNSAVE MESSAGE";
+
+/* No comment provided by engineer. */
+"VIEW" = "VISTA";
+
+/* No comment provided by engineer. */
+"VIEW ALERTS" = "VISUALIZZA ALERT";
+
+/* No comment provided by engineer. */
+"VIEW MEMBERS" = "VISUALIZZA MEMBRI";
+
+/* No comment provided by engineer. */
+"Weather" = "Tempo metereologico";
+
+/* No comment provided by engineer. */
+"WXYZ" = "W X Y Z";
+
+/* No comment provided by engineer. */
+"Yes" = "sì";
+
+/* No comment provided by engineer. */
+"Are you OK?" = "Stai bene?";
+
+/* No comment provided by engineer. */
+"CALL COMMUNITY MANAGER" = "CHIAMANTE RESPONSABILE DELLA COMUNITÀ";
+
+/* No comment provided by engineer. */
+"Error" = "Errore";
+
+/* No comment provided by engineer. */
+"Indeterminate progress" = "";
+
+/* No comment provided by engineer. */
+"Loading" = "";
+
+/* No comment provided by engineer. */
+"Success" = "";
+
+/* Format for the string to return to a calling app. */
+"Touch to return to %1$@" = "";
+
+/* No comment provided by engineer. */
+"Would you like to call your community manager?" = "Vorresti chiamare il tuo community manager?";
+
+/* No comment provided by engineer. */
+"An unknown error occurred. Please contact support if the issue persists" = "Si è verificato un errore sconosciuto. Si prega di contattare l&#39;assistenza se il problema persiste";
+
+/* No comment provided by engineer. */
+"FILTER" = "FILTRO";
+
+/* No comment provided by engineer. */
+"Hours" = "Ore";
+
+/* No comment provided by engineer. */
+"Opt-Out" = "Decidere di uscire";
+
+/* No comment provided by engineer. */
+"This group is password protected, you must subscribe to see it's messages" = "Questo gruppo è protetto da password, è necessario abbonarsi per vedere i suoi messaggi";
+
+/* No comment provided by engineer. */
+"Would you like to opt-out from automatic subscriptions to %@?" = "Desideri disattivare gli abbonamenti automatici a% @?";
+
+/* No comment provided by engineer. */
+"Viewed:" = "visto:";
+
+/* No comment provided by engineer. */
+"There are no subscribers in this group" = "Non ci sono iscritti in questo gruppo";
+
+/* No comment provided by engineer. */
+"Search for Members" = "Cerca membri";
+
+/* No comment provided by engineer. */
+"Are you sure you want to join?" = "Sei sicuro di voler aderire?";
+
+/* No comment provided by engineer. */
+"You have been invited to join %@" = "Sei stato invitato a partecipare %@";
+
+/* No comment provided by engineer. */
+"Please select the group members that you would like to contact" = "Si prega di selezionare i membri del gruppo che si desidera contattare";
+
+/* No comment provided by engineer. */
+"Selected Members (%d)" = "Membri selezionati (%d)";

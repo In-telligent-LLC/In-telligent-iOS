@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="NotificationAttachmentCollectionViewCell" customModule="Intelligent" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="200" height="100"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="200" height="100"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="fOl-oG-HxJ">
+                        <rect key="frame" x="0.0" y="0.0" width="200" height="100"/>
+                    </imageView>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PGj-nX-LfK">
+                        <rect key="frame" x="0.0" y="0.0" width="200" height="100"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.20000000000000001" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </view>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_play" translatesAutoresizingMaskIntoConstraints="NO" id="GNK-Fk-wNQ" customClass="IconImageView" customModule="Intelligent" customModuleProvider="target">
+                        <rect key="frame" x="82" y="32" width="36" height="36"/>
+                        <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="GNK-Fk-wNQ" secondAttribute="height" multiplier="1:1" id="JY9-RH-TBm"/>
+                            <constraint firstAttribute="height" constant="36" id="t5e-FZ-L6R"/>
+                        </constraints>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_eye" translatesAutoresizingMaskIntoConstraints="NO" id="xhc-vZ-iBa" customClass="IconImageView" customModule="Intelligent" customModuleProvider="target">
+                        <rect key="frame" x="172" y="72" width="20" height="20"/>
+                        <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="xhc-vZ-iBa" secondAttribute="height" multiplier="1:1" id="WqA-p4-TPi"/>
+                            <constraint firstAttribute="height" constant="20" id="a3h-Q1-73T"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="ZTg-uK-7eu" firstAttribute="trailing" secondItem="xhc-vZ-iBa" secondAttribute="trailing" constant="8" id="0zP-km-VHC"/>
+                <constraint firstItem="PGj-nX-LfK" firstAttribute="leading" secondItem="fOl-oG-HxJ" secondAttribute="leading" id="1MV-mz-2QU"/>
+                <constraint firstItem="PGj-nX-LfK" firstAttribute="trailing" secondItem="fOl-oG-HxJ" secondAttribute="trailing" id="5Hh-NC-Vtz"/>
+                <constraint firstItem="fOl-oG-HxJ" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="dc8-8K-O0n"/>
+                <constraint firstAttribute="bottom" secondItem="fOl-oG-HxJ" secondAttribute="bottom" id="dce-8e-vZ0"/>
+                <constraint firstItem="GNK-Fk-wNQ" firstAttribute="centerY" secondItem="ZTg-uK-7eu" secondAttribute="centerY" id="f7T-RC-0bC"/>
+                <constraint firstAttribute="trailing" secondItem="fOl-oG-HxJ" secondAttribute="trailing" id="jFt-Mi-zyh"/>
+                <constraint firstItem="fOl-oG-HxJ" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="nXi-NY-kJf"/>
+                <constraint firstItem="ZTg-uK-7eu" firstAttribute="bottom" secondItem="xhc-vZ-iBa" secondAttribute="bottom" constant="8" id="oyP-3Y-bVv"/>
+                <constraint firstItem="GNK-Fk-wNQ" firstAttribute="centerX" secondItem="ZTg-uK-7eu" secondAttribute="centerX" id="s8R-Ef-pfq"/>
+                <constraint firstItem="PGj-nX-LfK" firstAttribute="bottom" secondItem="fOl-oG-HxJ" secondAttribute="bottom" id="toE-um-C7g"/>
+                <constraint firstItem="PGj-nX-LfK" firstAttribute="top" secondItem="fOl-oG-HxJ" secondAttribute="top" id="veg-5E-7H1"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="200" height="100"/>
+            <connections>
+                <outlet property="imageOverlayImageView" destination="xhc-vZ-iBa" id="fUs-pj-cdn"/>
+                <outlet property="imageOverlayView" destination="PGj-nX-LfK" id="Hzg-BY-mQp"/>
+                <outlet property="imageView" destination="fOl-oG-HxJ" id="dFS-x5-rJj"/>
+                <outlet property="videoOverlayImageView" destination="GNK-Fk-wNQ" id="nv5-c9-2Kg"/>
+            </connections>
+            <point key="canvasLocation" x="57.600000000000001" y="211.39430284857573"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="icon_eye" width="21" height="21"/>
+        <image name="icon_play" width="32" height="32"/>
+    </resources>
+</document>

@@ -1,0 +1,651 @@
+
+/* No comment provided by engineer. */
+"%d Attachments" = "%d Συνημμένα";
+
+/* No comment provided by engineer. */
+"*When you send an urgent or emergency alert to the community, members will hear the alert sound." = "* Όταν στέλνετε μια επείγουσα ή επείγουσα ειδοποίηση στην κοινότητα, τα μέλη θα ακούσουν τον ήχο ειδοποίησης.";
+
+/* No comment provided by engineer. */
+"ABC" = "αλφάβητο";
+
+/* No comment provided by engineer. */
+"ABOUT" = "ΣΧΕΤΙΚΑ ΜΕ";
+
+/* No comment provided by engineer. */
+"Accepted" = "Αποδεκτό";
+
+/* No comment provided by engineer. */
+"Account" = "λογαριασμός";
+
+/* No comment provided by engineer. */
+"Add Attachment" = "Προσθήκη συνημμένου";
+
+/* No comment provided by engineer. */
+"ALERT LANGUAGE" = "ΓΛΩΣΣΑ ΠΡΟΕΙΔΟΠΟΙΗΣΗΣ";
+
+/* No comment provided by engineer. */
+"Alert Sent" = "Ειδοποίηση αποστέλλεται";
+
+/* No comment provided by engineer. */
+"Alert Suggested" = "Προειδοποίηση Προτεινόμενη";
+
+/* No comment provided by engineer. */
+"All Subscribers" = "Όλοι οι Συνδρομητές";
+
+/* No comment provided by engineer. */
+"Already have an account? LOG IN" = "Έχετε ήδη λογαριασμό? ΣΥΝΔΕΣΗ";
+
+/* No comment provided by engineer. */
+"Always" = "Πάντα";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete %@?" = "Είστε βέβαιοι ότι θέλετε να διαγράψετε %@?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete the invite for %@?" = "Είστε βέβαιοι ότι θέλετε να διαγράψετε την πρόσκληση για %@;";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this group?" = "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν την ομάδα;";
+
+/* No comment provided by engineer. */
+"Are you sure?" = "Είσαι σίγουρος?";
+
+/* No comment provided by engineer. */
+"Attachments" = "Συνημμένα";
+
+/* No comment provided by engineer. */
+"Attachments: %d total" = "Συνημμένα: %d σύνολο";
+
+/* No comment provided by engineer. */
+"BACK" = "ΠΙΣΩ";
+
+/* No comment provided by engineer. */
+"Begin Call" = "Ξεκινήστε την κλήση";
+
+/* No comment provided by engineer. */
+"Call" = "Κλήση";
+
+/* No comment provided by engineer. */
+"CANCEL" = "ΜΑΤΑΙΩΣΗ";
+
+/* No comment provided by engineer. */
+"Cancel" = "Ματαίωση";
+
+/* No comment provided by engineer. */
+"CHANGE PASSWORD" = "ΑΛΛΑΞΕ ΚΩΔΙΚΟ";
+
+/* No comment provided by engineer. */
+"Change Thumbnail" = "Αλλαγή μικρογραφίας";
+
+/* No comment provided by engineer. */
+"Changes Saved" = "Οι αλλαγές αποθηκεύτηκαν";
+
+/* No comment provided by engineer. */
+"Close" = "Κοντά";
+
+/* No comment provided by engineer. */
+"Confirm Password" = "Επιβεβαίωση Κωδικού";
+
+/* No comment provided by engineer. */
+"Connect" = "Συνδέω-συωδεομαι";
+
+/* No comment provided by engineer. */
+"CONNECT" = "ΣΥΝΔΕΩ-ΣΥΩΔΕΟΜΑΙ";
+
+/* No comment provided by engineer. */
+"Contact" = "Επικοινωνία";
+
+/* No comment provided by engineer. */
+"CREATE" = "ΔΗΜΙΟΥΡΓΩ";
+
+/* No comment provided by engineer. */
+"Create A Group" = "Δημιουργία ομάδας";
+
+/* No comment provided by engineer. */
+"Create a New Group" = "Δημιουργήστε μια νέα ομάδα";
+
+/* No comment provided by engineer. */
+"Create Account" = "Δημιουργήστε λογαριασμό";
+
+/* No comment provided by engineer. */
+"Create Thumbnail" = "Δημιουργία μικρογραφίας";
+
+/* No comment provided by engineer. */
+"Created on %@" = "Δημιουργήθηκε στο %@";
+
+/* No comment provided by engineer. */
+"Critical" = "Κρίσιμος";
+
+/* No comment provided by engineer. */
+"DEF" = "DEF";
+
+/* No comment provided by engineer. */
+"Default Thumbnail" = "Προεπιλεγμένη μικρογραφία";
+
+/* No comment provided by engineer. */
+"Delete" = "Διαγράφω";
+
+/* No comment provided by engineer. */
+"Delete Notification" = "Διαγραφή ειδοποίησης";
+
+/* No comment provided by engineer. */
+"Deliver To" = "Παράδοση σε";
+
+/* No comment provided by engineer. */
+"Delivered:" = "Παραδόθηκε:";
+
+/* No comment provided by engineer. */
+"DELIVERY INFORMATION" = "ΠΛΗΡΟΦΟΡΙΕΣ ΑΠΟΣΤΟΛΗΣ";
+
+/* No comment provided by engineer. */
+"DISCONNECT" = "ΑΠΟΣΥΝΔΕΩ";
+
+/* No comment provided by engineer. */
+"Do you want to disable Audible Lightning Alerts" = "Θέλετε να απενεργοποιήσετε τις προειδοποιήσεις Audible Lightning Alerts";
+
+/* No comment provided by engineer. */
+"Done" = "Εγινε";
+
+/* No comment provided by engineer. */
+"Edit Group" = "Επεξεργασία ομάδας";
+
+/* No comment provided by engineer. */
+"Edit Member" = "Επεξεργασία μέλους";
+
+/* No comment provided by engineer. */
+"Email" = "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ";
+
+/* No comment provided by engineer. */
+"EMAIL" = "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ";
+
+/* No comment provided by engineer. */
+"Emergency Services" = "Υπηρεσίες έκτακτης ανάγκης";
+
+/* No comment provided by engineer. */
+"End Call" = "Τέλος κλήσης";
+
+/* No comment provided by engineer. */
+"Enter Description" = "Εισαγάγετε την Περιγραφή";
+
+/* No comment provided by engineer. */
+"Enter Email Address" = "Εισάγετε ηλεκτρονική διεύθυνση";
+
+/* No comment provided by engineer. */
+"Enter Message" = "Εισαγάγετε μήνυμα";
+
+/* No comment provided by engineer. */
+"Enter Title" = "Εισαγωγή τίτλου";
+
+/* No comment provided by engineer. */
+"FIND" = "ΕΥΡΗΜΑ";
+
+/* No comment provided by engineer. */
+"Find Member" = "Βρείτε μέλος";
+
+/* No comment provided by engineer. */
+"FIRST TIME USER" = "ΠΡΩΤΗ ΧΡΟΝΟΣ ΧΡΗΣΤΗΣ";
+
+/* No comment provided by engineer. */
+"Forgot Password" = "Ξεχάσατε τον κωδικό";
+
+/* No comment provided by engineer. */
+"FORGOT/CHANGE PASSWORD" = "ΑΠΑΓΟΡΕΥΣΗ / ΑΛΛΑΓΗ ΚΩΔΙΚΟΥ";
+
+/* No comment provided by engineer. */
+"Full Name" = "Πλήρες όνομα";
+
+/* No comment provided by engineer. */
+"General Inquires on In-telligent" = "Ο Γενικός Ερωτηματοφύλακας ανακαλύπτει το θέμα";
+
+/* No comment provided by engineer. */
+"GHI" = "ΕΓΓΡΑΦΗ";
+
+/* No comment provided by engineer. */
+"Group Created" = "Ομάδα δημιουργήθηκε";
+
+/* No comment provided by engineer. */
+"Group Deleted" = "Η ομάδα διαγράφηκε";
+
+/* No comment provided by engineer. */
+"Group Name" = "Ονομα ομάδας";
+
+/* No comment provided by engineer. */
+"Groups" = "Ομάδες";
+
+/* No comment provided by engineer. */
+"Helplines & Hotlines" = "Γραμμές βοήθειας & Hotlines";
+
+/* No comment provided by engineer. */
+"How many hours would you like total silence for?" = "Για πόσες ώρες θα θέλατε να έχετε πλήρη σιωπή;";
+
+/* No comment provided by engineer. */
+"IGNORE" = "ΑΓΝΟΩ";
+
+/* No comment provided by engineer. */
+"In-telligent" = "Εξυπνος";
+
+/* No comment provided by engineer. */
+"In-telligent and All Emails" = "In-telligent και Όλα τα μηνύματα ηλεκτρονικού ταχυδρομείου";
+
+/* No comment provided by engineer. */
+"In-telligent and Imported Emails" = "Εμπλουτισμένα και εισαγόμενα μηνύματα ηλεκτρονικού ταχυδρομείου";
+
+/* No comment provided by engineer. */
+"Inbox" = "Inbox";
+
+/* No comment provided by engineer. */
+"Invalid building" = "Μη έγκυρη δόμηση";
+
+/* No comment provided by engineer. */
+"Invalid Password" = "Λανθασμένος κωδικός";
+
+/* No comment provided by engineer. */
+"Invalid reset code. Please try again." = "Μη έγκυρος κώδικας επαναφοράς. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.";
+
+/* No comment provided by engineer. */
+"Invite New Member" = "Προσκαλέστε νέο μέλος";
+
+/* No comment provided by engineer. */
+"INVITE OTHERS TO JOIN" = "ΚΑΛΟΥΣΤΕ ΤΟΥΣ ΑΛΛΟΥΣ ΝΑ ΣΥΝΑΝΤΗΣΕΤΕ";
+
+/* No comment provided by engineer. */
+"Invited" = "Καλεσμένος";
+
+/* No comment provided by engineer. */
+"JKL" = "JKL";
+
+/* No comment provided by engineer. */
+"JOIN NOW" = "ΠΑΡΕ ΜΕΡΟΣ ΤΩΡΑ";
+
+/* No comment provided by engineer. */
+"Join now with Facebook" = "Γίνετε μέλος τώρα στο Facebook";
+
+/* No comment provided by engineer. */
+"Join now with Google" = "Γίνετε μέλος τώρα με την Google";
+
+/* No comment provided by engineer. */
+"Life Safety" = "Ασφάλεια ζωής";
+
+/* No comment provided by engineer. */
+"Lightning" = "Αστραπή";
+
+/* No comment provided by engineer. */
+"Lightning Alert" = "Προειδοποίηση αστραπής";
+
+/* No comment provided by engineer. */
+"Listen to the emergency alert sound" = "Ακούστε τον ήχο συναγερμού έκτακτης ανάγκης";
+
+/* No comment provided by engineer. */
+"Listen to the urgent alert sound" = "Ακούστε τον ήχο επείγουσας ειδοποίησης";
+
+/* No comment provided by engineer. */
+"LOG IN" = "ΣΥΝΔΕΣΗ";
+
+/* No comment provided by engineer. */
+"Log in with Facebook" = "Σύνδεση με το Facebook";
+
+/* No comment provided by engineer. */
+"Log in with Google" = "Συνδεθείτε με την Google";
+
+/* No comment provided by engineer. */
+"Log Out" = "Αποσυνδέση";
+
+/* No comment provided by engineer. */
+"Menu" = "Μενού";
+
+/* No comment provided by engineer. */
+"Message" = "Μήνυμα";
+
+/* No comment provided by engineer. */
+"MESSAGE FEED" = "MESSAGE FEED";
+
+/* No comment provided by engineer. */
+"MNO" = "MNO";
+
+/* No comment provided by engineer. */
+"My Account" = "Ο λογαριασμός μου";
+
+/* No comment provided by engineer. */
+"My Groups" = "Οι ομάδες μου";
+
+/* No comment provided by engineer. */
+"My Info" = "Πληροφορίες μου";
+
+/* No comment provided by engineer. */
+"NAME" = "ΟΝΟΜΑ";
+
+/* No comment provided by engineer. */
+"Name" = "Ονομα";
+
+/* No comment provided by engineer. */
+"Name Your Group" = "Ονομάστε την ομάδα σας";
+
+/* No comment provided by engineer. */
+"Name:" = "Ονομα:";
+
+/* No comment provided by engineer. */
+"Never" = "Ποτέ";
+
+/* No comment provided by engineer. */
+"NEXT" = "ΕΠΟΜΕΝΟ";
+
+/* No comment provided by engineer. */
+"No" = "Οχι";
+
+/* No comment provided by engineer. */
+"None" = "Κανένας";
+
+/* No comment provided by engineer. */
+"Normal" = "Κανονικός";
+
+/* No comment provided by engineer. */
+"Notifications" = "Ειδοποιήσεις";
+
+/* No comment provided by engineer. */
+"Off" = "Μακριά από";
+
+/* No comment provided by engineer. */
+"OK" = "Εντάξει";
+
+/* No comment provided by engineer. */
+"On" = "Επί";
+
+/* No comment provided by engineer. */
+"Only When I'm Here" = "Μόνο όταν είμαι εδώ";
+
+/* No comment provided by engineer. */
+"or" = "ή";
+
+/* No comment provided by engineer. */
+"OR" = "Ή";
+
+/* No comment provided by engineer. */
+"Organizations" = "Οργανισμοί";
+
+/* No comment provided by engineer. */
+"Other Groups" = "Άλλες ομάδες";
+
+/* No comment provided by engineer. */
+"Password" = "Κωδικός πρόσβασης";
+
+/* No comment provided by engineer. */
+"Password Required" = "Απαιτείται κωδικός πρόσβασης";
+
+/* No comment provided by engineer. */
+"Passwords must match" = "οι κωδικοί πρέπει να ταιριάζουν";
+
+/* No comment provided by engineer. */
+"PC Emergency" = "PC έκτακτης ανάγκης";
+
+/* No comment provided by engineer. */
+"PC Urgent" = "PC Urgent";
+
+/* No comment provided by engineer. */
+"Pending..." = "Εκκρεμής...";
+
+/* No comment provided by engineer. */
+"People" = "Ανθρωποι";
+
+/* No comment provided by engineer. */
+"Personal Safety" = "Προσωπική ασφάλεια";
+
+/* No comment provided by engineer. */
+"Phone Number" = "Τηλεφωνικό νούμερο";
+
+/* No comment provided by engineer. */
+"Ping" = "Ping";
+
+/* No comment provided by engineer. */
+"Please input a valid confirmed password" = "Καταχωρίστε έναν έγκυρο κωδικό επιβεβαίωσης";
+
+/* No comment provided by engineer. */
+"Please input a valid description" = "Εισαγάγετε μια έγκυρη περιγραφή";
+
+/* No comment provided by engineer. */
+"Please input a valid email" = "Καταχωρίστε ένα έγκυρο μήνυμα ηλεκτρονικού ταχυδρομείου";
+
+/* No comment provided by engineer. */
+"Please input a valid email or phone number" = "Εισαγάγετε έναν έγκυρο αριθμό ηλεκτρονικού ταχυδρομείου ή αριθμό τηλεφώνου";
+
+/* No comment provided by engineer. */
+"Please input a valid message" = "Εισαγάγετε ένα έγκυρο μήνυμα";
+
+/* No comment provided by engineer. */
+"Please input a valid name" = "Εισαγάγετε ένα έγκυρο όνομα";
+
+/* No comment provided by engineer. */
+"Please input a valid password" = "Καταχωρίστε έναν έγκυρο κωδικό πρόσβασης";
+
+/* No comment provided by engineer. */
+"Please input a valid phone number" = "Εισαγάγετε έναν έγκυρο αριθμό τηλεφώνου";
+
+/* No comment provided by engineer. */
+"Please input a valid title" = "Καταχωρίστε έναν έγκυρο τίτλο";
+
+/* No comment provided by engineer. */
+"Please select a deliver to" = "Επιλέξτε μια προσφορά στο";
+
+/* No comment provided by engineer. */
+"Please select a group that you would like to contact" = "Επιλέξτε μια ομάδα στην οποία θέλετε να επικοινωνήσετε";
+
+/* No comment provided by engineer. */
+"Please select a notification type" = "Επιλέξτε έναν τύπο ειδοποίησης";
+
+/* No comment provided by engineer. */
+"Please select a send to" = "Επιλέξτε ένα μήνυμα αποστολής προς";
+
+/* No comment provided by engineer. */
+"PQRS" = "PQRS";
+
+/* No comment provided by engineer. */
+"Read less" = "Διαβάστε λιγότερο";
+
+/* No comment provided by engineer. */
+"Read more" = "Διαβάστε περισσότερα";
+
+/* No comment provided by engineer. */
+"Receive regular alerts" = "Λήψη τακτικών ειδοποιήσεων";
+
+/* No comment provided by engineer. */
+"Received:" = "Λήψη:";
+
+/* No comment provided by engineer. */
+"Remove %@" = "Κατάργηση %@";
+
+/* No comment provided by engineer. */
+"Remove Attachment" = "Αφαιρέστε το προσάρτημα";
+
+/* No comment provided by engineer. */
+"Request Submitted" = "Αίτημα υποβλήθηκε";
+
+/* No comment provided by engineer. */
+"Reset Password" = "Επαναφέρετε τον κωδικό πρόσβασης";
+
+/* No comment provided by engineer. */
+"Response" = "Απάντηση";
+
+/* No comment provided by engineer. */
+"RETURNING SUBSCRIBER" = "ΕΠΙΣΤΡΟΦΗ ΣΤΗΝ ΕΠΙΣΤΡΟΦΗ";
+
+/* No comment provided by engineer. */
+"SAVE CHANGES" = "ΑΠΟΘΗΚΕΥΣΕ ΤΙΣ ΑΛΛΑΓΕΣ";
+
+/* No comment provided by engineer. */
+"SAVE MESSAGE" = "ΑΠΟΘΗΚΕΥΣΗ ΜΗΝΥΜΑ";
+
+/* No comment provided by engineer. */
+"Saved" = "Αποθηκεύτηκε";
+
+/* No comment provided by engineer. */
+"Saved Messages" = "Αποθηκευμένα Μηνύματα";
+
+/* No comment provided by engineer. */
+"Search for Group" = "Αναζήτηση ομάδας";
+
+/* No comment provided by engineer. */
+"Search for Groups" = "Αναζήτηση για ομάδες";
+
+/* No comment provided by engineer. */
+"Select Thumbnail:" = "Επιλογή μικρογραφίας:";
+
+/* No comment provided by engineer. */
+"SEND" = "ΣΤΕΙΛΕΤΕ";
+
+/* No comment provided by engineer. */
+"SEND INVITE & SAVE CONTACT" = "ΑΠΟΣΤΟΛΗ ΚΑΛΕΣΤΕ ΚΑΙ ΚΕΡΔΙΣΤΕ ΕΠΙΚΟΙΝΩΝΙΑ";
+
+/* No comment provided by engineer. */
+"Send Message" = "Να στείλετε μήνυμα";
+
+/* No comment provided by engineer. */
+"Send To" = "Στέλνω σε";
+
+/* No comment provided by engineer. */
+"Settings" = "Ρυθμίσεις";
+
+/* No comment provided by engineer. */
+"Severe Weather" = "Δριμιές καιρικές συνθήκες";
+
+/* No comment provided by engineer. */
+"Specific Subscribers" = "Ειδικοί Συνδρομητές";
+
+/* No comment provided by engineer. */
+"Specify Subscribers" = "Καθορίστε τους συνδρομητές";
+
+/* No comment provided by engineer. */
+"STOP SPEAKING" = "STOP SPEAKING";
+
+/* No comment provided by engineer. */
+"SUBMIT" = "ΥΠΟΒΑΛΛΟΥΝ";
+
+/* No comment provided by engineer. */
+"SUBSCRIBE" = "ΕΓΓΡΑΦΕΙΤΕ";
+
+/* No comment provided by engineer. */
+"Suggest Message" = "Προτείνετε μήνυμα";
+
+/* No comment provided by engineer. */
+"Suggested" = "Προτεινόμενη";
+
+/* No comment provided by engineer. */
+"Suggested Groups" = "Προτεινόμενες ομάδες";
+
+/* No comment provided by engineer. */
+"Support" = "Υποστήριξη";
+
+/* No comment provided by engineer. */
+"TEXT TO SPEECH" = "ΚΕΙΜΕΝΟ ΣΕ ΟΜΙΛΙΑ";
+
+/* No comment provided by engineer. */
+"Thanks! Check your email in a few minutes for the password reset link." = "Ευχαριστώ! Ελέγξτε το email σας σε λίγα λεπτά για τη σύνδεση επαναφοράς κωδικού πρόσβασης.";
+
+/* No comment provided by engineer. */
+"This field is required." = "Αυτό το πεδίο απαιτείται.";
+
+/* No comment provided by engineer. */
+"Timer: %@" = "Ώρες: %@";
+
+/* No comment provided by engineer. */
+"Total Members (%d)" = "Συνολικά μέλη (%d)";
+
+/* No comment provided by engineer. */
+"Total Silence" = "Συνολική Σιωπή";
+
+/* No comment provided by engineer. */
+"TRANSLATE" = "ΜΕΤΑΦΡΑΖΩ";
+
+/* No comment provided by engineer. */
+"Translate to:" = "Μετάφραση σε:";
+
+/* No comment provided by engineer. */
+"TUV" = "TUV";
+
+/* No comment provided by engineer. */
+"Type of Alert" = "Τύπος ειδοποίησης";
+
+/* No comment provided by engineer. */
+"Unread" = "Αδιάβαστος";
+
+/* No comment provided by engineer. */
+"UNSAVE MESSAGE" = "ΔΙΑΒΑΣΤΕ ΜΗΝΥΜΑ";
+
+/* No comment provided by engineer. */
+"VIEW" = "ΘΕΑ";
+
+/* No comment provided by engineer. */
+"VIEW ALERTS" = "ΠΡΟΣΟΧΗ ΠΡΟΕΙΔΟΠΟΙΗΣΕΙΣ";
+
+/* No comment provided by engineer. */
+"VIEW MEMBERS" = "ΔΕΙΤΕ ΜΕΛΟΥΣ";
+
+/* No comment provided by engineer. */
+"Weather" = "Καιρός";
+
+/* No comment provided by engineer. */
+"WXYZ" = "WXYZ";
+
+/* No comment provided by engineer. */
+"Yes" = "Ναί";
+
+/* No comment provided by engineer. */
+"Are you OK?" = "Είσαι καλά?";
+
+/* No comment provided by engineer. */
+"CALL COMMUNITY MANAGER" = "ΚΛΗΣΤΕ ΤΟΝ ΚΟΙΝΟΤΙΚΟ ΔΙΑΧΕΙΡΙΣΤΗ";
+
+/* No comment provided by engineer. */
+"Error" = "Λάθος";
+
+/* No comment provided by engineer. */
+"Indeterminate progress" = "";
+
+/* No comment provided by engineer. */
+"Loading" = "";
+
+/* No comment provided by engineer. */
+"Success" = "";
+
+/* Format for the string to return to a calling app. */
+"Touch to return to %1$@" = "";
+
+/* No comment provided by engineer. */
+"Would you like to call your community manager?" = "Θέλετε να καλέσετε τον υπεύθυνο κοινότητας;";
+
+/* No comment provided by engineer. */
+"An unknown error occurred. Please contact support if the issue persists" = "Συνέβη ένα άγνωστο σφάλμα. Επικοινωνήστε με την υποστήριξη εάν το πρόβλημα παραμένει";
+
+/* No comment provided by engineer. */
+"FILTER" = "ΦΙΛΤΡΟ";
+
+/* No comment provided by engineer. */
+"Hours" = "Ωρες";
+
+/* No comment provided by engineer. */
+"Opt-Out" = "Αποκλεισμός";
+
+/* No comment provided by engineer. */
+"This group is password protected, you must subscribe to see it's messages" = "Αυτή η ομάδα προστατεύεται με κωδικό πρόσβασης, πρέπει να εγγραφείτε για να δείτε τα μηνύματά της";
+
+/* No comment provided by engineer. */
+"Would you like to opt-out from automatic subscriptions to %@?" = "Θέλετε να εξαιρεθείτε από τις αυτόματες συνδρομές στο% @;";
+
+/* No comment provided by engineer. */
+"Viewed:" = "Προβολή:";
+
+/* No comment provided by engineer. */
+"There are no subscribers in this group" = "Δεν υπάρχουν συνδρομητές σε αυτήν την ομάδα";
+
+/* No comment provided by engineer. */
+"Search for Members" = "Αναζήτηση μελών";
+
+/* No comment provided by engineer. */
+"Are you sure you want to join?" = "Είστε βέβαιοι ότι θέλετε να συμμετάσχετε;";
+
+/* No comment provided by engineer. */
+"You have been invited to join %@" = "Έχετε προσκληθεί να συμμετάσχετε %@";
+
+/* No comment provided by engineer. */
+"Please select the group members that you would like to contact" = "Επιλέξτε τα μέλη της ομάδας που θέλετε να επικοινωνήσετε";
+
+/* No comment provided by engineer. */
+"Selected Members (%d)" = "Επιλεγμένα μέλη (%d)";

@@ -1,0 +1,651 @@
+
+/* No comment provided by engineer. */
+"%d Attachments" = "%d አባሪዎች";
+
+/* No comment provided by engineer. */
+"*When you send an urgent or emergency alert to the community, members will hear the alert sound." = "* ለህብረተሰቡ አስቸኳይ ወይም አስቸኳይ ማንቂያ ሲላኩ, አባላት የማንቂያ ድምጽ ይሰማሉ.";
+
+/* No comment provided by engineer. */
+"ABC" = "ABC";
+
+/* No comment provided by engineer. */
+"ABOUT" = "ስለ";
+
+/* No comment provided by engineer. */
+"Accepted" = "ተቀባይነት አግኝቷል";
+
+/* No comment provided by engineer. */
+"Account" = "መለያ";
+
+/* No comment provided by engineer. */
+"Add Attachment" = "ዓባሪ አክል";
+
+/* No comment provided by engineer. */
+"ALERT LANGUAGE" = "አልፋ ቋንቋ";
+
+/* No comment provided by engineer. */
+"Alert Sent" = "ማንቂያ ተልኳል";
+
+/* No comment provided by engineer. */
+"Alert Suggested" = "ማንቂያ የቀረበ አስተያየት";
+
+/* No comment provided by engineer. */
+"All Subscribers" = "ሁሉም የደንበኝነት ተመዝጋቢዎች";
+
+/* No comment provided by engineer. */
+"Already have an account? LOG IN" = "ቀድሞውኑ መለያ አለዎት? ግባ";
+
+/* No comment provided by engineer. */
+"Always" = "ሁልጊዜ";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete %@?" = "እርግጠኛ ነዎት %@ ን መሰረዝ ይፈልጋሉ?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete the invite for %@?" = "እርግጠኛ ነዎት የ %@ ግብዣን ለመሰረዝ ይፈልጋሉ?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this group?" = "ይህን ቡድን ለመሰረዝ በእርግጥ ይፈልጋሉ?";
+
+/* No comment provided by engineer. */
+"Are you sure?" = "እርግጠኛ ነህ?";
+
+/* No comment provided by engineer. */
+"Attachments" = "አባሪዎች";
+
+/* No comment provided by engineer. */
+"Attachments: %d total" = "ዓባሪዎች: %d ጠቅላላ";
+
+/* No comment provided by engineer. */
+"BACK" = "ተመለስ";
+
+/* No comment provided by engineer. */
+"Begin Call" = "ጥሪ ይጀምሩ";
+
+/* No comment provided by engineer. */
+"Call" = "ጥሪ";
+
+/* No comment provided by engineer. */
+"CANCEL" = "ውድቅ";
+
+/* No comment provided by engineer. */
+"Cancel" = "ሰርዝ";
+
+/* No comment provided by engineer. */
+"CHANGE PASSWORD" = "የሚስጥር ቁልፍ ይቀይሩ";
+
+/* No comment provided by engineer. */
+"Change Thumbnail" = "ድንክዬ ይቀይሩ";
+
+/* No comment provided by engineer. */
+"Changes Saved" = "ለውጦች ተቀምጠዋል";
+
+/* No comment provided by engineer. */
+"Close" = "ገጠመ";
+
+/* No comment provided by engineer. */
+"Confirm Password" = "የይለፍ ቃል አረጋግጥ";
+
+/* No comment provided by engineer. */
+"Connect" = "ይገናኙ";
+
+/* No comment provided by engineer. */
+"CONNECT" = "ተገናኝ";
+
+/* No comment provided by engineer. */
+"Contact" = "እውቅያ";
+
+/* No comment provided by engineer. */
+"CREATE" = "ይፍጠሩ";
+
+/* No comment provided by engineer. */
+"Create A Group" = "ቡድን ይፍጠሩ";
+
+/* No comment provided by engineer. */
+"Create a New Group" = "አዲስ ቡድን ይፍጠሩ";
+
+/* No comment provided by engineer. */
+"Create Account" = "መለያ ይፍጠሩ";
+
+/* No comment provided by engineer. */
+"Create Thumbnail" = "ድንክዬ ይፍጠሩ";
+
+/* No comment provided by engineer. */
+"Created on %@" = "በ %@ ተፈጠረ";
+
+/* No comment provided by engineer. */
+"Critical" = "ወሳኝ";
+
+/* No comment provided by engineer. */
+"DEF" = "DEF";
+
+/* No comment provided by engineer. */
+"Default Thumbnail" = "ነባሪ ድንክዬ";
+
+/* No comment provided by engineer. */
+"Delete" = "ሰርዝ";
+
+/* No comment provided by engineer. */
+"Delete Notification" = "ማሳወቂያ ሰርዝ";
+
+/* No comment provided by engineer. */
+"Deliver To" = "ወደ አድሪያ";
+
+/* No comment provided by engineer. */
+"Delivered:" = "ደርሷል:";
+
+/* No comment provided by engineer. */
+"DELIVERY INFORMATION" = "የላቀ መረጃ";
+
+/* No comment provided by engineer. */
+"DISCONNECT" = "ተሰብስበው";
+
+/* No comment provided by engineer. */
+"Do you want to disable Audible Lightning Alerts" = "የመልዕክት መብራቶችን ማንቃት / ማሰናከል ይፈልጋሉ";
+
+/* No comment provided by engineer. */
+"Done" = "ተጠናቅቋል";
+
+/* No comment provided by engineer. */
+"Edit Group" = "ቡድን ያርትዑ";
+
+/* No comment provided by engineer. */
+"Edit Member" = "አባል ያርትዑ";
+
+/* No comment provided by engineer. */
+"Email" = "ኢሜይል";
+
+/* No comment provided by engineer. */
+"EMAIL" = "EMAIL";
+
+/* No comment provided by engineer. */
+"Emergency Services" = "የአደጋ ጊዜ አገልግሎቶች";
+
+/* No comment provided by engineer. */
+"End Call" = "ጥሪ ጨርስ";
+
+/* No comment provided by engineer. */
+"Enter Description" = "ማብራሪያ ያስገቡ";
+
+/* No comment provided by engineer. */
+"Enter Email Address" = "የኢሜይል አድራሻ አስገባ";
+
+/* No comment provided by engineer. */
+"Enter Message" = "መልዕክት ያስገቡ";
+
+/* No comment provided by engineer. */
+"Enter Title" = "ርዕስ ያስገቡ";
+
+/* No comment provided by engineer. */
+"FIND" = "አግኝ";
+
+/* No comment provided by engineer. */
+"Find Member" = "አባል ያግኙ";
+
+/* No comment provided by engineer. */
+"FIRST TIME USER" = "የመጀመሪያ ጊዜ ተጠቃሚ";
+
+/* No comment provided by engineer. */
+"Forgot Password" = "መክፈቻ ቁልፉን ረሳኽው";
+
+/* No comment provided by engineer. */
+"FORGOT/CHANGE PASSWORD" = "የይለፍ ቃል / ቀይር";
+
+/* No comment provided by engineer. */
+"Full Name" = "ሙሉ ስም";
+
+/* No comment provided by engineer. */
+"General Inquires on In-telligent" = "ጠቅላላ የአመልካቾችን ጉዳይ ይጠይቃል";
+
+/* No comment provided by engineer. */
+"GHI" = "ግጥም";
+
+/* No comment provided by engineer. */
+"Group Created" = "ቡድን ተፈጥሯል";
+
+/* No comment provided by engineer. */
+"Group Deleted" = "ቡድን ተሰርዟል";
+
+/* No comment provided by engineer. */
+"Group Name" = "የቡድን ስም";
+
+/* No comment provided by engineer. */
+"Groups" = "ቡድኖች";
+
+/* No comment provided by engineer. */
+"Helplines & Hotlines" = "አጋዥዎች እና መደበኛ መስመሮች";
+
+/* No comment provided by engineer. */
+"How many hours would you like total silence for?" = "ስለ ጠቅላላው ዝምታ ምን ያህል ሰዓቶች ይፈልጋሉ?";
+
+/* No comment provided by engineer. */
+"IGNORE" = "IGNORE";
+
+/* No comment provided by engineer. */
+"In-telligent" = "አዕምሮ ባለው";
+
+/* No comment provided by engineer. */
+"In-telligent and All Emails" = "In -ntigent እና ሁሉም ኢሜይሎች";
+
+/* No comment provided by engineer. */
+"In-telligent and Imported Emails" = "ኢንፎርሜንት እና የተላኩ ኢሜይሎች";
+
+/* No comment provided by engineer. */
+"Inbox" = "Inbox";
+
+/* No comment provided by engineer. */
+"Invalid building" = "ልክ ያልሆነ ሕንፃ";
+
+/* No comment provided by engineer. */
+"Invalid Password" = "የተሳሳተ የሚስጥርቃል";
+
+/* No comment provided by engineer. */
+"Invalid reset code. Please try again." = "ልክ ያልሆነ ዳግም ማስጀመሪያ ኮድ. እባክዎ ዳግም ይሞክሩ.";
+
+/* No comment provided by engineer. */
+"Invite New Member" = "አዲስ አባል ይጋብዙ";
+
+/* No comment provided by engineer. */
+"INVITE OTHERS TO JOIN" = "ሌሎችን እንዲገቡ ይጋብዛቸው";
+
+/* No comment provided by engineer. */
+"Invited" = "ተጋብዘዋል";
+
+/* No comment provided by engineer. */
+"JKL" = "JKL";
+
+/* No comment provided by engineer. */
+"JOIN NOW" = "አሁን ይቀላቀሉ";
+
+/* No comment provided by engineer. */
+"Join now with Facebook" = "አሁን ከ Facebook ጋር ይቀላቀሉ";
+
+/* No comment provided by engineer. */
+"Join now with Google" = "አሁን በ Google ይቀላቀሉ";
+
+/* No comment provided by engineer. */
+"Life Safety" = "የህይወት ደህንነት";
+
+/* No comment provided by engineer. */
+"Lightning" = "መብረቅ";
+
+/* No comment provided by engineer. */
+"Lightning Alert" = "የብርሃን ማስጠንቀቂያ";
+
+/* No comment provided by engineer. */
+"Listen to the emergency alert sound" = "የአደጋ ጥሪ ድምፅን ያዳምጡ";
+
+/* No comment provided by engineer. */
+"Listen to the urgent alert sound" = "የአስቸኳይ ጥሪውን ድምጽ አዳምጥ";
+
+/* No comment provided by engineer. */
+"LOG IN" = "ግባ";
+
+/* No comment provided by engineer. */
+"Log in with Facebook" = "በፌስቡክ ግባ";
+
+/* No comment provided by engineer. */
+"Log in with Google" = "በ Google ግባ";
+
+/* No comment provided by engineer. */
+"Log Out" = "ውጣ";
+
+/* No comment provided by engineer. */
+"Menu" = "ምናሌ";
+
+/* No comment provided by engineer. */
+"Message" = "መልዕክት";
+
+/* No comment provided by engineer. */
+"MESSAGE FEED" = "MESSAGE FEED";
+
+/* No comment provided by engineer. */
+"MNO" = "MNO";
+
+/* No comment provided by engineer. */
+"My Account" = "አካውንቴ";
+
+/* No comment provided by engineer. */
+"My Groups" = "የእኔ ቡድኖች";
+
+/* No comment provided by engineer. */
+"My Info" = "የእኔ መረጃ";
+
+/* No comment provided by engineer. */
+"NAME" = "NAME";
+
+/* No comment provided by engineer. */
+"Name" = "ስም";
+
+/* No comment provided by engineer. */
+"Name Your Group" = "የእርስዎ ቡድን ስም ይስጡ";
+
+/* No comment provided by engineer. */
+"Name:" = "ስም";
+
+/* No comment provided by engineer. */
+"Never" = "በጭራሽ";
+
+/* No comment provided by engineer. */
+"NEXT" = "ቀጣይ";
+
+/* No comment provided by engineer. */
+"No" = "አይ";
+
+/* No comment provided by engineer. */
+"None" = "ምንም";
+
+/* No comment provided by engineer. */
+"Normal" = "መደበኛ";
+
+/* No comment provided by engineer. */
+"Notifications" = "ማሳወቂያዎች";
+
+/* No comment provided by engineer. */
+"Off" = "ጠፍቷል";
+
+/* No comment provided by engineer. */
+"OK" = "እሺ";
+
+/* No comment provided by engineer. */
+"On" = "በርቷል";
+
+/* No comment provided by engineer. */
+"Only When I'm Here" = "እዚህ ሲኖር ብቻ";
+
+/* No comment provided by engineer. */
+"or" = "ወይም";
+
+/* No comment provided by engineer. */
+"OR" = "ወይም";
+
+/* No comment provided by engineer. */
+"Organizations" = "ድርጅቶች";
+
+/* No comment provided by engineer. */
+"Other Groups" = "ሌሎች ቡድኖች";
+
+/* No comment provided by engineer. */
+"Password" = "የይለፍ ቃል";
+
+/* No comment provided by engineer. */
+"Password Required" = "የይለፍ ቃል ያስፈልጋል";
+
+/* No comment provided by engineer. */
+"Passwords must match" = "የሚስጥሩ ቃል ​​የግድ መመሳሰል አለበት";
+
+/* No comment provided by engineer. */
+"PC Emergency" = "ፒሲኤፍ አስቸኳይ";
+
+/* No comment provided by engineer. */
+"PC Urgent" = "ፒሲ አስቸኳይ";
+
+/* No comment provided by engineer. */
+"Pending..." = "በመጠባበቅ ላይ ...";
+
+/* No comment provided by engineer. */
+"People" = "ሰዎች";
+
+/* No comment provided by engineer. */
+"Personal Safety" = "የግል ደህንነት";
+
+/* No comment provided by engineer. */
+"Phone Number" = "ስልክ ቁጥር";
+
+/* No comment provided by engineer. */
+"Ping" = "ፒንግ";
+
+/* No comment provided by engineer. */
+"Please input a valid confirmed password" = "እባክዎ ትክክለኛውን የተረጋገጠ የይለፍ ቃል ያስገቡ";
+
+/* No comment provided by engineer. */
+"Please input a valid description" = "እባክዎን ትክክለኛውን መግለጫ ያስገቡ";
+
+/* No comment provided by engineer. */
+"Please input a valid email" = "እባክዎን ትክክለኛ ኢሜይል ያስገቡ";
+
+/* No comment provided by engineer. */
+"Please input a valid email or phone number" = "እባክዎን ትክክለኛ ኢሜይል ወይም ስልክ ቁጥር ያስገቡ";
+
+/* No comment provided by engineer. */
+"Please input a valid message" = "እባክዎን ትክክለኛውን መልእክት ያስገቡ";
+
+/* No comment provided by engineer. */
+"Please input a valid name" = "እባክዎ ትክክለኛ ስም ያስገቡ";
+
+/* No comment provided by engineer. */
+"Please input a valid password" = "እባክዎን ትክክለኛውን የይለፍ ቃል ያስገቡ";
+
+/* No comment provided by engineer. */
+"Please input a valid phone number" = "እባክዎ ትክክለኛ የስልክ ቁጥር ያስገቡ";
+
+/* No comment provided by engineer. */
+"Please input a valid title" = "እባክዎ ልክ የሆነ ርዕስ ያስገቡ";
+
+/* No comment provided by engineer. */
+"Please select a deliver to" = "እባክዎ ለ";
+
+/* No comment provided by engineer. */
+"Please select a group that you would like to contact" = "እባክዎ ሊያገኙዋቸው የሚፈልጉትን ቡድን ይምረጡ";
+
+/* No comment provided by engineer. */
+"Please select a notification type" = "እባክዎ የማሳወቂያ አይነት ይምረጡ";
+
+/* No comment provided by engineer. */
+"Please select a send to" = "እባክዎ አንድ ላክ ይምረጡ";
+
+/* No comment provided by engineer. */
+"PQRS" = "PQRS";
+
+/* No comment provided by engineer. */
+"Read less" = "ያነሰ ያንብቡ";
+
+/* No comment provided by engineer. */
+"Read more" = "ተጨማሪ ያንብቡ";
+
+/* No comment provided by engineer. */
+"Receive regular alerts" = "መደበኛ ማስጠንቀቂያዎች ይቀበሉ";
+
+/* No comment provided by engineer. */
+"Received:" = "ተቀብሏል:";
+
+/* No comment provided by engineer. */
+"Remove %@" = " %@ ን አስወግድ";
+
+/* No comment provided by engineer. */
+"Remove Attachment" = "ዓባሪን አስወግድ";
+
+/* No comment provided by engineer. */
+"Request Submitted" = "ጥያቄ ገብቷል";
+
+/* No comment provided by engineer. */
+"Reset Password" = "የይለፍ ቃል ዳግም ያስጀምሩ";
+
+/* No comment provided by engineer. */
+"Response" = "ምላሽ";
+
+/* No comment provided by engineer. */
+"RETURNING SUBSCRIBER" = "ይመዘገባል";
+
+/* No comment provided by engineer. */
+"SAVE CHANGES" = "ለውጦችን አስቀምጥ";
+
+/* No comment provided by engineer. */
+"SAVE MESSAGE" = "መልዕክት አስቀምጥ";
+
+/* No comment provided by engineer. */
+"Saved" = "ተቀምጧል";
+
+/* No comment provided by engineer. */
+"Saved Messages" = "የተቀመጡ መልዕክቶች";
+
+/* No comment provided by engineer. */
+"Search for Group" = "ቡድን ይፈልጉ";
+
+/* No comment provided by engineer. */
+"Search for Groups" = "ቡድኖችን መፈለግ";
+
+/* No comment provided by engineer. */
+"Select Thumbnail:" = "ድንክዬውን ይምረጡ";
+
+/* No comment provided by engineer. */
+"SEND" = "ይላኩ";
+
+/* No comment provided by engineer. */
+"SEND INVITE & SAVE CONTACT" = "ይላኩ እና እውቂያ ያስቀምጡ";
+
+/* No comment provided by engineer. */
+"Send Message" = "መልዕክት ላክ";
+
+/* No comment provided by engineer. */
+"Send To" = "ወደ መላክ";
+
+/* No comment provided by engineer. */
+"Settings" = "ቅንብሮች";
+
+/* No comment provided by engineer. */
+"Severe Weather" = "ከባድ የአየር ሁኔታ";
+
+/* No comment provided by engineer. */
+"Specific Subscribers" = "የተወሰኑ የደንበኝነት ተመዝጋቢዎች";
+
+/* No comment provided by engineer. */
+"Specify Subscribers" = "ተመዝጋቢዎችን ይግለጹ";
+
+/* No comment provided by engineer. */
+"STOP SPEAKING" = "መናገር አቁሙ";
+
+/* No comment provided by engineer. */
+"SUBMIT" = "SUBMIT";
+
+/* No comment provided by engineer. */
+"SUBSCRIBE" = "ይመዝገቡ";
+
+/* No comment provided by engineer. */
+"Suggest Message" = "መልእክት ጠቁም";
+
+/* No comment provided by engineer. */
+"Suggested" = "በአስተያየት የተጠቆመ";
+
+/* No comment provided by engineer. */
+"Suggested Groups" = "የተጠቆሙ ቡድኖች";
+
+/* No comment provided by engineer. */
+"Support" = "ድጋፍ";
+
+/* No comment provided by engineer. */
+"TEXT TO SPEECH" = "ለመናገር ጽሑፍ";
+
+/* No comment provided by engineer. */
+"Thanks! Check your email in a few minutes for the password reset link." = "አመሰግናለሁ! የይለፍ ቃል ዳግም ማስጀመሪያ አገናኝ ለማግኘት ከጥቂት ደቂቃዎች በኋላ ኢሜይልዎን ይመልከቱ.";
+
+/* No comment provided by engineer. */
+"This field is required." = "ይሄ ቦታ ይፈለጋል.";
+
+/* No comment provided by engineer. */
+"Timer: %@" = "ሰዓታት: %@";
+
+/* No comment provided by engineer. */
+"Total Members (%d)" = "ጠቅላላ አባሎች (%d)";
+
+/* No comment provided by engineer. */
+"Total Silence" = "ጠቅላላ ጸጥታ";
+
+/* No comment provided by engineer. */
+"TRANSLATE" = "መተርጎም";
+
+/* No comment provided by engineer. */
+"Translate to:" = "ተርጉም ወደ:";
+
+/* No comment provided by engineer. */
+"TUV" = "TUV";
+
+/* No comment provided by engineer. */
+"Type of Alert" = "የማንቂያ ዓይነት";
+
+/* No comment provided by engineer. */
+"Unread" = "ያልተነበበ";
+
+/* No comment provided by engineer. */
+"UNSAVE MESSAGE" = "UNSAVE MESSAGE";
+
+/* No comment provided by engineer. */
+"VIEW" = "VIEW";
+
+/* No comment provided by engineer. */
+"VIEW ALERTS" = "አስታዋሾችን ይመልከቱ";
+
+/* No comment provided by engineer. */
+"VIEW MEMBERS" = "አባላትን ይመልከቱ";
+
+/* No comment provided by engineer. */
+"Weather" = "የአየር ሁኔታ";
+
+/* No comment provided by engineer. */
+"WXYZ" = "WXYZ";
+
+/* No comment provided by engineer. */
+"Yes" = "አዎ";
+
+/* No comment provided by engineer. */
+"Are you OK?" = "ደህና";
+
+/* No comment provided by engineer. */
+"CALL COMMUNITY MANAGER" = "ጥምዝ";
+
+/* No comment provided by engineer. */
+"Error" = "ስህተት";
+
+/* No comment provided by engineer. */
+"Indeterminate progress" = "";
+
+/* No comment provided by engineer. */
+"Loading" = "";
+
+/* No comment provided by engineer. */
+"Success" = "";
+
+/* Format for the string to return to a calling app. */
+"Touch to return to %1$@" = "";
+
+/* No comment provided by engineer. */
+"Would you like to call your community manager?" = "የማህበረሰብ አስተዳዳሪዎን መደወል ይፈልጋሉ?";
+
+/* No comment provided by engineer. */
+"An unknown error occurred. Please contact support if the issue persists" = "አንድ ያልታወቀ ስህተት ተከስቷል. ችግሩ ከቀጠለ እባክዎ ድጋፍን ያነጋግሩ";
+
+/* No comment provided by engineer. */
+"FILTER" = "ማጣሪያ";
+
+/* No comment provided by engineer. */
+"Hours" = "ሰዓታት";
+
+/* No comment provided by engineer. */
+"Opt-Out" = "መርጠው ይውጡ";
+
+/* No comment provided by engineer. */
+"This group is password protected, you must subscribe to see it's messages" = "ይህ ቡድን በይለፍ ቃል የተጠበቀ ነው, የእሱን መልዕክቶች ለማየት በደንበኝነት መመዝገብ አለብዎት";
+
+/* No comment provided by engineer. */
+"Would you like to opt-out from automatic subscriptions to %@?" = "ከመደበኛ ምዝገባዎች ወደ% @ ለመውጣት ይፈልጋሉ?";
+
+/* No comment provided by engineer. */
+"Viewed:" = "የታየ";
+
+/* No comment provided by engineer. */
+"There are no subscribers in this group" = "በዚህ ቡድን ውስጥ ምንም ተመዝጋቢዎች የሉም";
+
+/* No comment provided by engineer. */
+"Search for Members" = "አባላትን ፈልግ";
+
+/* No comment provided by engineer. */
+"Are you sure you want to join?" = "እርግጠኛ ነዎት መቀላቀል ይፈልጋሉ?";
+
+/* No comment provided by engineer. */
+"You have been invited to join %@" = "ለመቀላቀል ተጋብዘዋል %@";
+
+/* No comment provided by engineer. */
+"Please select the group members that you would like to contact" = "እባክዎ ሊያነጋግሩዋቸው የሚፈልጉትን የቡድን አባላት ይምረጡ";
+
+/* No comment provided by engineer. */
+"Selected Members (%d)" = "የተመረጡ አባሎች (%d)";

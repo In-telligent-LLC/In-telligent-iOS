@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="PhonePadCollectionViewCell" customModule="Intelligent" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="100" height="100"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="100" height="100"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4rN-VF-G87">
+                        <rect key="frame" x="8" y="8" width="84" height="84"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Pxp-qq-zdG" customClass="GradientView" customModule="Intelligent" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="0.0" width="84" height="84"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Goe-32-q1D">
+                                        <rect key="frame" x="31.5" y="12.5" width="21" height="43"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="36"/>
+                                        <color key="textColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="ABC" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nIW-bS-fXg">
+                                        <rect key="frame" x="31.5" y="57.5" width="21" height="12"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="nIW-bS-fXg" firstAttribute="top" secondItem="Goe-32-q1D" secondAttribute="bottom" constant="2" id="6ec-up-vDl"/>
+                                    <constraint firstItem="Goe-32-q1D" firstAttribute="centerY" secondItem="Pxp-qq-zdG" secondAttribute="centerY" constant="-8" id="AsV-ch-85c"/>
+                                    <constraint firstItem="Goe-32-q1D" firstAttribute="centerX" secondItem="Pxp-qq-zdG" secondAttribute="centerX" id="VNE-w1-ycI"/>
+                                    <constraint firstItem="nIW-bS-fXg" firstAttribute="centerX" secondItem="Goe-32-q1D" secondAttribute="centerX" id="iMD-pX-F7e"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="startColor">
+                                        <color key="value" red="0.96095126870000003" green="0.96479147669999998" blue="0.96032613519999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="endColor">
+                                        <color key="value" red="0.88618689780000004" green="0.88633584980000002" blue="0.88616734740000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="string" keyPath="gradientTypeString" value="topBottom"/>
+                                </userDefinedRuntimeAttributes>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="Pxp-qq-zdG" firstAttribute="leading" secondItem="4rN-VF-G87" secondAttribute="leading" id="AFg-se-acL"/>
+                            <constraint firstAttribute="bottom" secondItem="Pxp-qq-zdG" secondAttribute="bottom" id="IV3-Wj-icp"/>
+                            <constraint firstAttribute="trailing" secondItem="Pxp-qq-zdG" secondAttribute="trailing" id="JgS-dx-bNw"/>
+                            <constraint firstItem="Pxp-qq-zdG" firstAttribute="top" secondItem="4rN-VF-G87" secondAttribute="top" id="asr-Pa-hh4"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="sDF-jb-mzv"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" red="0.74894481899999998" green="0.7490720153" blue="0.74892807009999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="1"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="6"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="4rN-VF-G87" firstAttribute="top" secondItem="ZTg-uK-7eu" secondAttribute="top" constant="8" id="FfA-eG-rE0"/>
+                <constraint firstItem="4rN-VF-G87" firstAttribute="centerY" secondItem="ZTg-uK-7eu" secondAttribute="centerY" id="NGl-f2-Xl2"/>
+                <constraint firstItem="4rN-VF-G87" firstAttribute="leading" secondItem="ZTg-uK-7eu" secondAttribute="leading" constant="8" id="qvS-VJ-Pca"/>
+                <constraint firstItem="4rN-VF-G87" firstAttribute="centerX" secondItem="ZTg-uK-7eu" secondAttribute="centerX" id="uVU-HY-5po"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <connections>
+                <outlet property="lettersLabel" destination="nIW-bS-fXg" id="5ug-gE-SGW"/>
+                <outlet property="numberLabel" destination="Goe-32-q1D" id="J4i-g2-ge1"/>
+            </connections>
+        </collectionViewCell>
+    </objects>
+</document>

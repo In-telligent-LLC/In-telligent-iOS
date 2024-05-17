@@ -1,0 +1,99 @@
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "0Hp-9d-3MT"; */
+"0Hp-9d-3MT.placeholder" = "Confirm Password";
+
+/* Class = "UIButton"; normalTitle = "FIRST TIME USER"; ObjectID = "32n-jg-IA6"; */
+"32n-jg-IA6.normalTitle" = "FIRST TIME USER";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "3et-QA-UJP"; */
+"3et-QA-UJP.placeholder" = "Full Name";
+
+/* Class = "UIButton"; normalTitle = "JOIN NOW"; ObjectID = "8QR-aa-QQi"; */
+"8QR-aa-QQi.normalTitle" = "JOIN NOW";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "AND-yl-wD3"; */
+"AND-yl-wD3.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Log in with Facebook"; ObjectID = "Ajp-nS-MQu"; */
+"Ajp-nS-MQu.normalTitle" = "Log in with Facebook";
+
+/* Class = "UILabel"; text = "Enter Email Address"; ObjectID = "Cuf-sp-yI0"; */
+"Cuf-sp-yI0.text" = "Enter Email Address";
+
+/* Class = "UILabel"; text = "Create Account"; ObjectID = "EPp-XK-6PZ"; */
+"EPp-XK-6PZ.text" = "Create Account";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "FiL-cv-kOJ"; */
+"FiL-cv-kOJ.normalTitle" = "BACK";
+
+/* Class = "UIButton"; normalTitle = "Join now with Google"; ObjectID = "ILh-8A-Cb7"; */
+"ILh-8A-Cb7.normalTitle" = "Join now with Google";
+
+/* Class = "UIButton"; normalTitle = "Already have an account? LOG IN"; ObjectID = "IOb-xC-7HQ"; */
+"IOb-xC-7HQ.normalTitle" = "Already have an account? LOG IN";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "JoR-Bd-Idy"; */
+"JoR-Bd-Idy.text" = "My Account";
+
+/* Class = "UIButton"; normalTitle = "Log in with Google"; ObjectID = "Jtd-um-x7L"; */
+"Jtd-um-x7L.normalTitle" = "Log in with Google";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Kmm-nf-Vso"; */
+"Kmm-nf-Vso.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "CHANGE PASSWORD"; ObjectID = "R9m-Z7-VtD"; */
+"R9m-Z7-VtD.normalTitle" = "CHANGE PASSWORD";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "RVB-5W-Pzm"; */
+"RVB-5W-Pzm.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Unw-iV-Zgb"; */
+"Unw-iV-Zgb.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "VB1-x2-dn8"; */
+"VB1-x2-dn8.normalTitle" = "BACK";
+
+/* Class = "UIButton"; normalTitle = "JOIN NOW"; ObjectID = "Z6c-zM-f2V"; */
+"Z6c-zM-f2V.normalTitle" = "JOIN NOW";
+
+/* Class = "UIButton"; normalTitle = "Join now with Facebook"; ObjectID = "afj-27-oDU"; */
+"afj-27-oDU.normalTitle" = "Join now with Facebook";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "cnt-Nr-7SY"; */
+"cnt-Nr-7SY.text" = "OR";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "dxF-iH-TJs"; */
+"dxF-iH-TJs.placeholder" = "Confirm Password";
+
+/* Class = "UIButton"; normalTitle = "Already have an account? LOG IN"; ObjectID = "gp5-iY-J0I"; */
+"gp5-iY-J0I.normalTitle" = "Already have an account? LOG IN";
+
+/* Class = "UILabel"; text = "Create Account"; ObjectID = "iY2-Kh-VmJ"; */
+"iY2-Kh-VmJ.text" = "Create Account";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "kAG-lS-2PT"; */
+"kAG-lS-2PT.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "kIR-nN-XVd"; */
+"kIR-nN-XVd.text" = "OR";
+
+/* Class = "UIButton"; normalTitle = "FORGOT/CHANGE PASSWORD"; ObjectID = "nHK-km-YOM"; */
+"nHK-km-YOM.normalTitle" = "FORGOT/CHANGE PASSWORD";
+
+/* Class = "UIButton"; normalTitle = "LOG IN"; ObjectID = "nzX-xI-uJY"; */
+"nzX-xI-uJY.normalTitle" = "LOG IN";
+
+/* Class = "UIButton"; normalTitle = "RETURNING SUBSCRIBER"; ObjectID = "qeG-KQ-Gp1"; */
+"qeG-KQ-Gp1.normalTitle" = "RETURNING SUBSCRIBER";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "sHw-5g-vUM"; */
+"sHw-5g-vUM.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Reset Password"; ObjectID = "taO-o9-TtC"; */
+"taO-o9-TtC.text" = "Reset Password";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "wMJ-R5-fpr"; */
+"wMJ-R5-fpr.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "yGj-sO-vgy"; */
+"yGj-sO-vgy.normalTitle" = "SUBMIT";

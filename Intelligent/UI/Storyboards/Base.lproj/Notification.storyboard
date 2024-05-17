@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Notification Personal Safety Popup View Controller-->
+        <scene sceneID="Ujn-Ax-afC">
+            <objects>
+                <viewController storyboardIdentifier="NotificationPersonalSafetyPopupViewController" id="JUG-UD-Urb" customClass="NotificationPersonalSafetyPopupViewController" customModule="Intelligent" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="wJc-IO-zqR">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="30" translatesAutoresizingMaskIntoConstraints="NO" id="PtQ-Gn-LWY">
+                                <rect key="frame" x="16" y="40" width="343" height="607"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="iI8-N7-Lkk">
+                                        <rect key="frame" x="0.0" y="0.0" width="343" height="100"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="100" id="78E-RR-OG9"/>
+                                        </constraints>
+                                    </imageView>
+                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Dm-2M-hnO">
+                                        <rect key="frame" x="0.0" y="130" width="343" height="313"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                        <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES" calendarEvent="YES"/>
+                                    </textView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Are you OK?" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jz2-YL-eJ1">
+                                        <rect key="frame" x="0.0" y="473" width="343" height="24"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="30" translatesAutoresizingMaskIntoConstraints="NO" id="peo-1e-rPH">
+                                        <rect key="frame" x="0.0" y="527" width="343" height="80"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Q3O-TF-mWi" customClass="INButton" customModule="Intelligent" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="0.0" width="156.5" height="80"/>
+                                                <color key="backgroundColor" red="0.69019607839999997" green="0.78823529410000004" blue="0.1843137255" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                                <state key="normal" title="YES">
+                                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
+                                                <connections>
+                                                    <action selector="closeTapped" destination="JUG-UD-Urb" eventType="touchUpInside" id="Vnf-8u-sGi"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fdb-ob-m9f" customClass="INButton" customModule="Intelligent" customModuleProvider="target">
+                                                <rect key="frame" x="186.5" y="0.0" width="156.5" height="80"/>
+                                                <color key="backgroundColor" red="0.91764705882352937" green="0.16078431372549021" blue="0.16078431372549021" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                                <state key="normal" title="NO">
+                                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
+                                                <connections>
+                                                    <action selector="helpTapped" destination="JUG-UD-Urb" eventType="touchUpInside" id="Weh-cK-3z6"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="80" id="JZB-BG-I1F"/>
+                                        </constraints>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="PtQ-Gn-LWY" firstAttribute="leading" secondItem="wJc-IO-zqR" secondAttribute="leadingMargin" id="EC5-0t-tEM"/>
+                            <constraint firstAttribute="bottom" secondItem="PtQ-Gn-LWY" secondAttribute="bottom" constant="20" id="Hl2-N2-cpZ"/>
+                            <constraint firstItem="PtQ-Gn-LWY" firstAttribute="trailing" secondItem="wJc-IO-zqR" secondAttribute="trailingMargin" id="Qzd-vA-mwd"/>
+                            <constraint firstItem="PtQ-Gn-LWY" firstAttribute="top" secondItem="tNe-xi-OXN" secondAttribute="top" constant="20" id="XpY-fq-FtY"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="tNe-xi-OXN"/>
+                    </view>
+                    <connections>
+                        <outlet property="cancelButton" destination="Q3O-TF-mWi" id="BVu-aN-8oo"/>
+                        <outlet property="messageTextView" destination="9Dm-2M-hnO" id="vtr-S6-qVl"/>
+                        <outlet property="noButton" destination="fdb-ob-m9f" id="gvp-3p-bWb"/>
+                        <outlet property="titleLabel" destination="jz2-YL-eJ1" id="kh2-Rl-3xd"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="3dj-tf-uMP" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-13914" y="-51"/>
+        </scene>
+        <!--Notification Call Building Manager View Controller-->
+        <scene sceneID="isw-FI-FuE">
+            <objects>
+                <viewController storyboardIdentifier="NotificationCallBuildingManagerViewController" id="s2Y-2G-lMW" customClass="NotificationCallBuildingManagerViewController" customModule="Intelligent" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Wul-Rd-y1T">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="30" translatesAutoresizingMaskIntoConstraints="NO" id="NQ0-DH-9Yz">
+                                <rect key="frame" x="16" y="40" width="343" height="607"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="0CE-dx-6cA">
+                                        <rect key="frame" x="0.0" y="0.0" width="343" height="100"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="100" id="2lj-6f-B2V"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Would you like to call your community manager?" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yH1-eO-yeY">
+                                        <rect key="frame" x="0.0" y="130" width="343" height="327"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="24"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="30" translatesAutoresizingMaskIntoConstraints="NO" id="SFP-tS-823">
+                                        <rect key="frame" x="0.0" y="487" width="343" height="120"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ASh-mj-aic" customClass="INButton" customModule="Intelligent" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="0.0" width="343" height="45"/>
+                                                <color key="backgroundColor" red="0.69019607839999997" green="0.78823529410000004" blue="0.1843137255" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                                <inset key="contentEdgeInsets" minX="-20" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                                <inset key="titleEdgeInsets" minX="20" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                                <state key="normal" title="CALL COMMUNITY MANAGER"/>
+                                                <connections>
+                                                    <action selector="callBuildingManagerTapped" destination="s2Y-2G-lMW" eventType="touchUpInside" id="8rX-fW-9y5"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Tf0-rZ-eAU" customClass="INButton" customModule="Intelligent" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="75" width="343" height="45"/>
+                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                                <state key="normal" title="NO THANK YOU"/>
+                                                <connections>
+                                                    <action selector="closeTapped" destination="s2Y-2G-lMW" eventType="touchUpInside" id="MTT-Wy-dpm"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="120" id="5I1-Mn-bIb"/>
+                                        </constraints>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="NQ0-DH-9Yz" firstAttribute="top" secondItem="rtq-9x-mch" secondAttribute="top" constant="20" id="5pX-aJ-bwE"/>
+                            <constraint firstItem="NQ0-DH-9Yz" firstAttribute="leading" secondItem="Wul-Rd-y1T" secondAttribute="leadingMargin" id="bcA-2H-z5E"/>
+                            <constraint firstItem="NQ0-DH-9Yz" firstAttribute="trailing" secondItem="Wul-Rd-y1T" secondAttribute="trailingMargin" id="jf3-qc-pJ2"/>
+                            <constraint firstAttribute="bottom" secondItem="NQ0-DH-9Yz" secondAttribute="bottom" constant="20" id="qv6-Vg-qUg"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="rtq-9x-mch"/>
+                    </view>
+                    <connections>
+                        <outlet property="callButton" destination="ASh-mj-aic" id="1Pc-ef-YlL"/>
+                        <outlet property="cancelButton" destination="Tf0-rZ-eAU" id="ImB-NS-FfA"/>
+                        <outlet property="titleLabel" destination="yH1-eO-yeY" id="fDX-uo-j7L"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="74e-cR-bv7" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-13191" y="-52"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="logo" width="266" height="76"/>
+    </resources>
+</document>

@@ -1,0 +1,16 @@
+framework module SMAMoatMobileAppKit {
+    umbrella header "SMAMoatMobileAppKit.h"
+    export *
+    header "SMAMoatAVVideoTracker.h"
+    header "SMAMoatAdEvent.h"
+    header "SMAMoatAdEventType.h"
+    header "SMAMoatAnalytics.h"
+    header "SMAMoatBaseTracker.h"
+    header "SMAMoatBaseVideoTracker.h"
+    header "SMAMoatGMAInterstitialTracker.h"
+    header "SMAMoatMobileAppKit.h"
+    header "SMAMoatNativeDisplayTracker.h"
+    header "SMAMoatReactiveVideoTracker.h"
+    header "SMAMoatTrackerDelegate.h"
+    header "SMAMoatWebTracker.h"
+}

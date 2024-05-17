@@ -1,0 +1,651 @@
+
+/* No comment provided by engineer. */
+"%d Attachments" = "%d Bijlagen";
+
+/* No comment provided by engineer. */
+"*When you send an urgent or emergency alert to the community, members will hear the alert sound." = "* Wanneer u een urgent of noodsignaal naar de community stuurt, horen de leden het waarschuwingsgeluid.";
+
+/* No comment provided by engineer. */
+"ABC" = "abc";
+
+/* No comment provided by engineer. */
+"ABOUT" = "WAT BETREFT";
+
+/* No comment provided by engineer. */
+"Accepted" = "Aanvaard";
+
+/* No comment provided by engineer. */
+"Account" = "Account";
+
+/* No comment provided by engineer. */
+"Add Attachment" = "Voeg bijlage toe";
+
+/* No comment provided by engineer. */
+"ALERT LANGUAGE" = "ALARM TAAL";
+
+/* No comment provided by engineer. */
+"Alert Sent" = "Waarschuwing verzonden";
+
+/* No comment provided by engineer. */
+"Alert Suggested" = "Waarschuwing voorgesteld";
+
+/* No comment provided by engineer. */
+"All Subscribers" = "Alle abonnees";
+
+/* No comment provided by engineer. */
+"Already have an account? LOG IN" = "Heb je al een account? LOG IN";
+
+/* No comment provided by engineer. */
+"Always" = "Altijd";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete %@?" = "Weet je zeker dat je wilt verwijderen %@?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete the invite for %@?" = "Weet je zeker dat je de uitnodiging voor %@ wilt verwijderen?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this group?" = "Weet je zeker dat je deze groep wilt verwijderen?";
+
+/* No comment provided by engineer. */
+"Are you sure?" = "Weet je het zeker?";
+
+/* No comment provided by engineer. */
+"Attachments" = "Bijlagen";
+
+/* No comment provided by engineer. */
+"Attachments: %d total" = "Bijlagen: %d totaal";
+
+/* No comment provided by engineer. */
+"BACK" = "TERUG";
+
+/* No comment provided by engineer. */
+"Begin Call" = "Begin gesprek";
+
+/* No comment provided by engineer. */
+"Call" = "telefoontje";
+
+/* No comment provided by engineer. */
+"CANCEL" = "ANNULEREN";
+
+/* No comment provided by engineer. */
+"Cancel" = "annuleren";
+
+/* No comment provided by engineer. */
+"CHANGE PASSWORD" = "WACHTWOORD WIJZIGEN";
+
+/* No comment provided by engineer. */
+"Change Thumbnail" = "Wijzig miniatuur";
+
+/* No comment provided by engineer. */
+"Changes Saved" = "Wijzigingen opgeslagen";
+
+/* No comment provided by engineer. */
+"Close" = "Dichtbij";
+
+/* No comment provided by engineer. */
+"Confirm Password" = "bevestig wachtwoord";
+
+/* No comment provided by engineer. */
+"Connect" = "Aansluiten";
+
+/* No comment provided by engineer. */
+"CONNECT" = "AANSLUITEN";
+
+/* No comment provided by engineer. */
+"Contact" = "Contact";
+
+/* No comment provided by engineer. */
+"CREATE" = "CREATE";
+
+/* No comment provided by engineer. */
+"Create A Group" = "Een groep maken";
+
+/* No comment provided by engineer. */
+"Create a New Group" = "Maak een nieuwe groep";
+
+/* No comment provided by engineer. */
+"Create Account" = "Maak een account aan";
+
+/* No comment provided by engineer. */
+"Create Thumbnail" = "Maak een miniatuur";
+
+/* No comment provided by engineer. */
+"Created on %@" = "Gemaakt op %@";
+
+/* No comment provided by engineer. */
+"Critical" = "kritisch";
+
+/* No comment provided by engineer. */
+"DEF" = "DEF";
+
+/* No comment provided by engineer. */
+"Default Thumbnail" = "Standaardminiatuur";
+
+/* No comment provided by engineer. */
+"Delete" = "Verwijder";
+
+/* No comment provided by engineer. */
+"Delete Notification" = "Notificatie verwijderen";
+
+/* No comment provided by engineer. */
+"Deliver To" = "Deliver To";
+
+/* No comment provided by engineer. */
+"Delivered:" = "Geleverd:";
+
+/* No comment provided by engineer. */
+"DELIVERY INFORMATION" = "LEVERINGSGEGEVENS";
+
+/* No comment provided by engineer. */
+"DISCONNECT" = "LOSKOPPELEN";
+
+/* No comment provided by engineer. */
+"Do you want to disable Audible Lightning Alerts" = "Wilt u Audible Lightning Alerts uitschakelen";
+
+/* No comment provided by engineer. */
+"Done" = "Gedaan";
+
+/* No comment provided by engineer. */
+"Edit Group" = "Groep bewerken";
+
+/* No comment provided by engineer. */
+"Edit Member" = "Lid bewerken";
+
+/* No comment provided by engineer. */
+"Email" = "E-mail";
+
+/* No comment provided by engineer. */
+"EMAIL" = "EMAIL";
+
+/* No comment provided by engineer. */
+"Emergency Services" = "Hulpverleningsdiensten";
+
+/* No comment provided by engineer. */
+"End Call" = "Ophangen";
+
+/* No comment provided by engineer. */
+"Enter Description" = "Voer de beschrijving in";
+
+/* No comment provided by engineer. */
+"Enter Email Address" = "Vul email adres in";
+
+/* No comment provided by engineer. */
+"Enter Message" = "Voer bericht in";
+
+/* No comment provided by engineer. */
+"Enter Title" = "Voer titel in";
+
+/* No comment provided by engineer. */
+"FIND" = "VIND";
+
+/* No comment provided by engineer. */
+"Find Member" = "Zoek lid";
+
+/* No comment provided by engineer. */
+"FIRST TIME USER" = "EERSTE KEER GEBRUIKER";
+
+/* No comment provided by engineer. */
+"Forgot Password" = "Wachtwoord vergeten";
+
+/* No comment provided by engineer. */
+"FORGOT/CHANGE PASSWORD" = "VERGETEN / WACHTWOORD VERANDEREN";
+
+/* No comment provided by engineer. */
+"Full Name" = "Voor-en achternaam";
+
+/* No comment provided by engineer. */
+"General Inquires on In-telligent" = "Algemeen Informeert over Inlichtingen";
+
+/* No comment provided by engineer. */
+"GHI" = "RECORD";
+
+/* No comment provided by engineer. */
+"Group Created" = "Groep gemaakt";
+
+/* No comment provided by engineer. */
+"Group Deleted" = "Groep verwijderd";
+
+/* No comment provided by engineer. */
+"Group Name" = "Groepsnaam";
+
+/* No comment provided by engineer. */
+"Groups" = "groepen";
+
+/* No comment provided by engineer. */
+"Helplines & Hotlines" = "Hulplijnen & hotlines";
+
+/* No comment provided by engineer. */
+"How many hours would you like total silence for?" = "Hoeveel uur wil je totale stilte?";
+
+/* No comment provided by engineer. */
+"IGNORE" = "NEGEREN";
+
+/* No comment provided by engineer. */
+"In-telligent" = "Intelligent";
+
+/* No comment provided by engineer. */
+"In-telligent and All Emails" = "Onbewuste en alle e-mails";
+
+/* No comment provided by engineer. */
+"In-telligent and Imported Emails" = "Intelligente en geïmporteerde e-mails";
+
+/* No comment provided by engineer. */
+"Inbox" = "Postvak IN";
+
+/* No comment provided by engineer. */
+"Invalid building" = "Ongeldig gebouw";
+
+/* No comment provided by engineer. */
+"Invalid Password" = "ongeldig wachtwoord";
+
+/* No comment provided by engineer. */
+"Invalid reset code. Please try again." = "Ongeldige resetcode. Probeer het opnieuw.";
+
+/* No comment provided by engineer. */
+"Invite New Member" = "Nodig een nieuw lid uit";
+
+/* No comment provided by engineer. */
+"INVITE OTHERS TO JOIN" = "NODIGEN ANDEREN UIT TE VOEREN";
+
+/* No comment provided by engineer. */
+"Invited" = "Uitgenodigd";
+
+/* No comment provided by engineer. */
+"JKL" = "JKL";
+
+/* No comment provided by engineer. */
+"JOIN NOW" = "DOE NU MEE";
+
+/* No comment provided by engineer. */
+"Join now with Facebook" = "Meld je nu aan met Facebook";
+
+/* No comment provided by engineer. */
+"Join now with Google" = "Meld u nu aan met Google";
+
+/* No comment provided by engineer. */
+"Life Safety" = "Leven veiligheid";
+
+/* No comment provided by engineer. */
+"Lightning" = "Bliksem";
+
+/* No comment provided by engineer. */
+"Lightning Alert" = "Bliksemwaarschuwing";
+
+/* No comment provided by engineer. */
+"Listen to the emergency alert sound" = "Luister naar het alarmsignaal voor noodgevallen";
+
+/* No comment provided by engineer. */
+"Listen to the urgent alert sound" = "Luister naar het dringende waarschuwingsgeluid";
+
+/* No comment provided by engineer. */
+"LOG IN" = "LOG IN";
+
+/* No comment provided by engineer. */
+"Log in with Facebook" = "Inloggen met Facebook";
+
+/* No comment provided by engineer. */
+"Log in with Google" = "Log in met Google";
+
+/* No comment provided by engineer. */
+"Log Out" = "Uitloggen";
+
+/* No comment provided by engineer. */
+"Menu" = "Menu";
+
+/* No comment provided by engineer. */
+"Message" = "Bericht";
+
+/* No comment provided by engineer. */
+"MESSAGE FEED" = "BERICHT FEED";
+
+/* No comment provided by engineer. */
+"MNO" = "MNO";
+
+/* No comment provided by engineer. */
+"My Account" = "Mijn rekening";
+
+/* No comment provided by engineer. */
+"My Groups" = "Mijn groepen";
+
+/* No comment provided by engineer. */
+"My Info" = "Mijn informatie";
+
+/* No comment provided by engineer. */
+"NAME" = "NAAM";
+
+/* No comment provided by engineer. */
+"Name" = "Naam";
+
+/* No comment provided by engineer. */
+"Name Your Group" = "Geef uw groep een naam";
+
+/* No comment provided by engineer. */
+"Name:" = "Naam:";
+
+/* No comment provided by engineer. */
+"Never" = "Nooit";
+
+/* No comment provided by engineer. */
+"NEXT" = "NEXT";
+
+/* No comment provided by engineer. */
+"No" = "Nee";
+
+/* No comment provided by engineer. */
+"None" = "Geen";
+
+/* No comment provided by engineer. */
+"Normal" = "normaal";
+
+/* No comment provided by engineer. */
+"Notifications" = "meldingen";
+
+/* No comment provided by engineer. */
+"Off" = "Uit";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"On" = "Op";
+
+/* No comment provided by engineer. */
+"Only When I'm Here" = "Alleen als ik hier ben";
+
+/* No comment provided by engineer. */
+"or" = "of";
+
+/* No comment provided by engineer. */
+"OR" = "OF";
+
+/* No comment provided by engineer. */
+"Organizations" = "organisaties";
+
+/* No comment provided by engineer. */
+"Other Groups" = "Andere groepen";
+
+/* No comment provided by engineer. */
+"Password" = "Wachtwoord";
+
+/* No comment provided by engineer. */
+"Password Required" = "Wachtwoord benodigd";
+
+/* No comment provided by engineer. */
+"Passwords must match" = "wachtwoorden moeten overeenkomen";
+
+/* No comment provided by engineer. */
+"PC Emergency" = "PC Emergency";
+
+/* No comment provided by engineer. */
+"PC Urgent" = "PC Dringend";
+
+/* No comment provided by engineer. */
+"Pending..." = "In afwachting...";
+
+/* No comment provided by engineer. */
+"People" = "Mensen";
+
+/* No comment provided by engineer. */
+"Personal Safety" = "Persoonlijke veiligheid";
+
+/* No comment provided by engineer. */
+"Phone Number" = "Telefoonnummer";
+
+/* No comment provided by engineer. */
+"Ping" = "Ping";
+
+/* No comment provided by engineer. */
+"Please input a valid confirmed password" = "Voer een geldig bevestigd wachtwoord in";
+
+/* No comment provided by engineer. */
+"Please input a valid description" = "Voer een geldige beschrijving in";
+
+/* No comment provided by engineer. */
+"Please input a valid email" = "Voer een geldig e-mailadres in";
+
+/* No comment provided by engineer. */
+"Please input a valid email or phone number" = "Voer een geldig e-mailadres of telefoonnummer in";
+
+/* No comment provided by engineer. */
+"Please input a valid message" = "Voer een geldig bericht in";
+
+/* No comment provided by engineer. */
+"Please input a valid name" = "Voer een geldige naam in";
+
+/* No comment provided by engineer. */
+"Please input a valid password" = "Voer een geldig wachtwoord in";
+
+/* No comment provided by engineer. */
+"Please input a valid phone number" = "Voer een geldig telefoonnummer in";
+
+/* No comment provided by engineer. */
+"Please input a valid title" = "Voer een geldige titel in";
+
+/* No comment provided by engineer. */
+"Please select a deliver to" = "Selecteer een bezorging voor";
+
+/* No comment provided by engineer. */
+"Please select a group that you would like to contact" = "Selecteer een groep waarmee u contact wilt opnemen";
+
+/* No comment provided by engineer. */
+"Please select a notification type" = "Selecteer een type melding";
+
+/* No comment provided by engineer. */
+"Please select a send to" = "Selecteer een verzending naar";
+
+/* No comment provided by engineer. */
+"PQRS" = "PQRS";
+
+/* No comment provided by engineer. */
+"Read less" = "Lees minder";
+
+/* No comment provided by engineer. */
+"Read more" = "Lees verder";
+
+/* No comment provided by engineer. */
+"Receive regular alerts" = "Ontvang regelmatig meldingen";
+
+/* No comment provided by engineer. */
+"Received:" = "Ontvangen:";
+
+/* No comment provided by engineer. */
+"Remove %@" = " %@ Verwijderen";
+
+/* No comment provided by engineer. */
+"Remove Attachment" = "Bijlage verwijderen";
+
+/* No comment provided by engineer. */
+"Request Submitted" = "Verzoek Ingediend";
+
+/* No comment provided by engineer. */
+"Reset Password" = "Reset wachtwoord";
+
+/* No comment provided by engineer. */
+"Response" = "antwoord";
+
+/* No comment provided by engineer. */
+"RETURNING SUBSCRIBER" = "TERUGKEER VAN ABONNEE";
+
+/* No comment provided by engineer. */
+"SAVE CHANGES" = "WIJZIGINGEN OPSLAAN";
+
+/* No comment provided by engineer. */
+"SAVE MESSAGE" = "BERICHT OPSLAAN";
+
+/* No comment provided by engineer. */
+"Saved" = "opgeslagen";
+
+/* No comment provided by engineer. */
+"Saved Messages" = "Opgeslagen berichten";
+
+/* No comment provided by engineer. */
+"Search for Group" = "Zoeken naar groep";
+
+/* No comment provided by engineer. */
+"Search for Groups" = "Zoeken naar groepen";
+
+/* No comment provided by engineer. */
+"Select Thumbnail:" = "Selecteer Thumbnail:";
+
+/* No comment provided by engineer. */
+"SEND" = "STUREN";
+
+/* No comment provided by engineer. */
+"SEND INVITE & SAVE CONTACT" = "VERZEND NODIG & BESPAAR CONTACT";
+
+/* No comment provided by engineer. */
+"Send Message" = "Bericht versturen";
+
+/* No comment provided by engineer. */
+"Send To" = "Verzenden naar";
+
+/* No comment provided by engineer. */
+"Settings" = "instellingen";
+
+/* No comment provided by engineer. */
+"Severe Weather" = "Ernstig weer";
+
+/* No comment provided by engineer. */
+"Specific Subscribers" = "Specifieke abonnees";
+
+/* No comment provided by engineer. */
+"Specify Subscribers" = "Geef abonnees op";
+
+/* No comment provided by engineer. */
+"STOP SPEAKING" = "STOP MET PRATEN";
+
+/* No comment provided by engineer. */
+"SUBMIT" = "SUBMIT";
+
+/* No comment provided by engineer. */
+"SUBSCRIBE" = "INSCHRIJVEN";
+
+/* No comment provided by engineer. */
+"Suggest Message" = "Stel een bericht voor";
+
+/* No comment provided by engineer. */
+"Suggested" = "Suggereerde";
+
+/* No comment provided by engineer. */
+"Suggested Groups" = "Voorgestelde groepen";
+
+/* No comment provided by engineer. */
+"Support" = "Ondersteuning";
+
+/* No comment provided by engineer. */
+"TEXT TO SPEECH" = "TEKST NAAR SPRAAK";
+
+/* No comment provided by engineer. */
+"Thanks! Check your email in a few minutes for the password reset link." = "Bedankt! Controleer uw e-mail binnen een paar minuten op de link voor het opnieuw instellen van uw wachtwoord.";
+
+/* No comment provided by engineer. */
+"This field is required." = "Dit veld is verplicht.";
+
+/* No comment provided by engineer. */
+"Timer: %@" = "Openingstijden: %@";
+
+/* No comment provided by engineer. */
+"Total Members (%d)" = "Totaal aantal leden (%d)";
+
+/* No comment provided by engineer. */
+"Total Silence" = "Totale stilte";
+
+/* No comment provided by engineer. */
+"TRANSLATE" = "VERTALEN";
+
+/* No comment provided by engineer. */
+"Translate to:" = "Vertalen naar:";
+
+/* No comment provided by engineer. */
+"TUV" = "TUV";
+
+/* No comment provided by engineer. */
+"Type of Alert" = "Type alarm";
+
+/* No comment provided by engineer. */
+"Unread" = "Ongelezen";
+
+/* No comment provided by engineer. */
+"UNSAVE MESSAGE" = "ONZICHT BERICHT";
+
+/* No comment provided by engineer. */
+"VIEW" = "UITZICHT";
+
+/* No comment provided by engineer. */
+"VIEW ALERTS" = "BEKIJK ALERTS";
+
+/* No comment provided by engineer. */
+"VIEW MEMBERS" = "BEKIJK LEDEN";
+
+/* No comment provided by engineer. */
+"Weather" = "Weer";
+
+/* No comment provided by engineer. */
+"WXYZ" = "W X Y Z";
+
+/* No comment provided by engineer. */
+"Yes" = "Ja";
+
+/* No comment provided by engineer. */
+"Are you OK?" = "Gaat alles goed?";
+
+/* No comment provided by engineer. */
+"CALL COMMUNITY MANAGER" = "MAAK COMMUNITY MANAGER";
+
+/* No comment provided by engineer. */
+"Error" = "Fout";
+
+/* No comment provided by engineer. */
+"Indeterminate progress" = "";
+
+/* No comment provided by engineer. */
+"Loading" = "";
+
+/* No comment provided by engineer. */
+"Success" = "";
+
+/* Format for the string to return to a calling app. */
+"Touch to return to %1$@" = "";
+
+/* No comment provided by engineer. */
+"Would you like to call your community manager?" = "Wil je je communitymanager bellen?";
+
+/* No comment provided by engineer. */
+"An unknown error occurred. Please contact support if the issue persists" = "Een onbekende fout is opgetreden. Neem contact op met ondersteuning als het probleem aanhoudt";
+
+/* No comment provided by engineer. */
+"FILTER" = "FILTER";
+
+/* No comment provided by engineer. */
+"Hours" = "uren";
+
+/* No comment provided by engineer. */
+"Opt-Out" = "Afmelden";
+
+/* No comment provided by engineer. */
+"This group is password protected, you must subscribe to see it's messages" = "Deze groep is beveiligd met een wachtwoord, je moet je abonneren om zijn berichten te zien";
+
+/* No comment provided by engineer. */
+"Would you like to opt-out from automatic subscriptions to %@?" = "Wilt u zich afmelden voor automatische abonnementen op% @?";
+
+/* No comment provided by engineer. */
+"Viewed:" = "bekeken:";
+
+/* No comment provided by engineer. */
+"There are no subscribers in this group" = "Er zijn geen abonnees in deze groep";
+
+/* No comment provided by engineer. */
+"Search for Members" = "Zoeken naar leden";
+
+/* No comment provided by engineer. */
+"Are you sure you want to join?" = "Weet je zeker dat je wilt meedoen?";
+
+/* No comment provided by engineer. */
+"You have been invited to join %@" = "Je bent uitgenodigd om mee te doen %@";
+
+/* No comment provided by engineer. */
+"Please select the group members that you would like to contact" = "Selecteer de groepsleden waarmee u contact wilt opnemen";
+
+/* No comment provided by engineer. */
+"Selected Members (%d)" = "Geselecteerde leden (%d)";

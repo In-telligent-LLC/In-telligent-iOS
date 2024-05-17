@@ -1,0 +1,6 @@
+framework module Pods_IntelligentKit {
+  umbrella header "Pods-IntelligentKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

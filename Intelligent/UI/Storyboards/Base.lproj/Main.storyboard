@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="O2J-v2-72V">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Tab Bar Controller-->
+        <scene sceneID="TZq-nX-lwV">
+            <objects>
+                <tabBarController id="O2J-v2-72V" customClass="INTabBarController" customModule="Intelligent" customModuleProvider="target" sceneMemberID="viewController">
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="qbf-tb-96X">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="V5f-BB-vnl" kind="relationship" relationship="viewControllers" id="zo2-KY-9Jm"/>
+                        <segue destination="LNc-Ge-VSe" kind="relationship" relationship="viewControllers" id="kRJ-bz-P7o"/>
+                        <segue destination="pwh-dx-o6u" kind="relationship" relationship="viewControllers" id="AhM-eu-ZEv"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="akf-O0-sK7" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-793" y="769"/>
+        </scene>
+        <!--Inbox-->
+        <scene sceneID="Fkp-Ac-03Y">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Inbox" id="pwh-dx-o6u" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Inbox" image="icon_tab_inbox" id="0wF-uc-bCX"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="zvC-5I-Rkj" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-64" y="641"/>
+        </scene>
+        <!--Contact-->
+        <scene sceneID="lOK-ft-blA">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Contact" id="LNc-Ge-VSe" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Contact" image="icon_tab_contact" id="pXb-RZ-Ddb"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="KoX-4T-Cxd" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-64" y="768"/>
+        </scene>
+        <!--Groups-->
+        <scene sceneID="pwZ-NT-W5I">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Groups" id="V5f-BB-vnl" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Groups" image="icon_tab_groups" id="jGC-dh-bQg"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="KkO-qM-O8X" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-64" y="894"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="icon_tab_contact" width="32" height="32"/>
+        <image name="icon_tab_groups" width="32" height="32"/>
+        <image name="icon_tab_inbox" width="32" height="32"/>
+    </resources>
+</document>
